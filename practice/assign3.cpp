@@ -1,5 +1,6 @@
 #include<iostream>
 #include <vector>
+#include <algorithm>
 #include <climits>
 using namespace std;
 int main()
@@ -32,10 +33,11 @@ int main()
                         ret=right[i];
                     }
                 }
+                hn=ret-x-y;
                 for(int z=0;z<left.size();z++){
                     hn=hn+left[z];
                 }
-                hn=hn+ret-x-y;
+                
                 gn=max(x,y)+ret;
                 fn=gn+hn;
                 if(fn<finalfn){
@@ -44,7 +46,7 @@ int main()
                     finaly=y;
                     finalret=ret;
                 }
-                cout<<"fn"<<gn<<"+"<<hn<<"="<<fn<<endl;
+                cout<<"fn="<<gn<<"+"<<hn<<"="<<fn<<endl;
 
             }
         }
@@ -60,10 +62,9 @@ int main()
         right.push_back(finalx);
         right.push_back(finaly);
         right.erase(find(right.begin(),right.end(),finalret));
+        cout<<"Total Time taken"<<totaltime<<endl;
     }
-    totaltime=totaltime+max(left[0]+left[1]);
-
-
-
+    totaltime=totaltime+max(left[0],left[1]);
+    cout<<"Total Time taken"<<totaltime<<endl;
     return 0;
 }

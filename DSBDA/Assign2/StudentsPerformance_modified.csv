@@ -1,0 +1,560 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+female,group B,bachelor's degree,standard,none,72,72,74
+female,group C,some college,standard,completed,69,90,88
+female,group B,master's degree,standard,none,90,95,93
+male,group A,associate's degree,free/reduced,none,47,57,44
+male,group C,some college,standard,none,76,78,75
+female,group B,associate's degree,standard,none,71,83,78
+female,group B,some college,standard,completed,88,95,92
+male,group B,some college,free/reduced,none,40,43,39
+male,group D,high school,free/reduced,completed,64,64,67
+female,group B,high school,free/reduced,none,38,60,50
+male,group C,associate's degree,standard,none,58,54,52
+male,group D,associate's degree,standard,none,40,52,43
+female,group B,high school,standard,none,65,81,73
+male,group A,some college,standard,completed,78,72,70
+female,group A,master's degree,standard,none,50,53,58
+female,group C,some high school,standard,none,69,75,78
+male,group C,high school,standard,none,88,89,86
+female,group B,some high school,free/reduced,none,,32,28
+male,group C,master's degree,free/reduced,completed,,22,46
+female,group C,associate's degree,free/reduced,none,,22,61
+male,group D,high school,standard,none,,12,63
+female,group B,some college,free/reduced,completed,,12,70
+male,group D,some college,standard,none,,13,53
+female,group C,some high school,standard,none,,14,
+male,group D,bachelor's degree,free/reduced,completed,74,9,80
+male,group A,master's degree,free/reduced,none,73,8,72
+male,group B,some college,standard,none,69,7,55
+female,group C,bachelor's degree,standard,none,67,6,75
+male,group C,high school,standard,none,70,4,
+female,group D,master's degree,standard,none,62,3,75
+female,group D,some college,standard,none,69,5,74
+female,group B,some college,standard,none,63,6,61
+female,group E,master's degree,free/reduced,none,56,34,65
+male,group D,some college,standard,none,40,22,38
+male,group E,some college,standard,none,,11,82
+male,group E,associate's degree,standard,completed,81,11,79
+female,group D,associate's degree,standard,none,74,12,83
+female,group D,some high school,free/reduced,none,50,12,59
+female,group D,associate's degree,free/reduced,completed,75,,88
+male,group B,associate's degree,free/reduced,none,57,56,57
+male,group C,associate's degree,free/reduced,none,55,61,54
+female,group C,associate's degree,standard,none,58,73,68
+female,group B,associate's degree,standard,none,53,58,65
+male,group B,some college,free/reduced,completed,59,65,66
+female,group E,associate's degree,free/reduced,none,50,56,54
+male,group B,associate's degree,standard,none,65,54,57
+female,group A,associate's degree,standard,completed,55,65,62
+female,group C,high school,standard,none,66,71,76
+female,group D,associate's degree,free/reduced,completed,57,74,76
+male,group C,high school,standard,completed,82,84,82
+male,group E,some college,standard,none,53,55,48
+male,group E,associate's degree,free/reduced,completed,77,69,68
+male,group C,some college,standard,none,53,44,42
+male,group D,high school,standard,none,88,78,75
+female,group C,some high school,free/reduced,completed,71,84,87
+female,group C,high school,free/reduced,none,33,41,43
+female,group E,associate's degree,standard,completed,82,85,86
+male,group D,associate's degree,standard,none,52,55,49
+male,group D,some college,standard,completed,58,59,58
+female,group C,some high school,free/reduced,none,0,17,10
+male,group E,bachelor's degree,free/reduced,completed,79,74,72
+male,group A,some high school,free/reduced,none,39,39,34
+male,group A,associate's degree,free/reduced,none,62,61,55
+female,group C,associate's degree,standard,none,69,80,71
+female,group D,some high school,standard,none,59,58,59
+male,group B,some high school,standard,none,67,64,61
+male,group D,some high school,free/reduced,none,45,37,37
+female,group C,some college,standard,none,60,72,74
+male,group B,associate's degree,free/reduced,none,61,58,56
+female,group C,associate's degree,standard,none,39,64,57
+female,group D,some college,free/reduced,completed,58,63,73
+male,group D,some college,standard,completed,63,55,63
+female,group A,associate's degree,free/reduced,none,41,51,48
+male,group C,some high school,free/reduced,none,61,57,56
+male,group C,some high school,standard,none,49,49,41
+male,group B,associate's degree,free/reduced,none,44,41,38
+male,group E,some high school,standard,none,30,26,22
+male,group A,bachelor's degree,standard,completed,80,78,81
+female,group D,some high school,standard,completed,61,74,72
+female,group E,master's degree,standard,none,62,68,68
+female,group B,associate's degree,standard,none,47,49,50
+male,group B,high school,free/reduced,none,49,45,45
+male,group A,some college,free/reduced,completed,50,47,54
+male,group E,associate's degree,standard,none,72,64,63
+male,group D,high school,free/reduced,none,42,39,34
+female,group C,some college,standard,none,73,80,82
+female,group C,some college,free/reduced,none,76,83,88
+female,group D,associate's degree,standard,none,71,71,74
+female,group A,some college,standard,none,58,70,67
+female,group D,some high school,standard,none,73,86,82
+female,group C,bachelor's degree,standard,none,65,72,74
+male,group C,high school,free/reduced,none,27,34,36
+male,group C,high school,standard,none,71,79,71
+male,group C,associate's degree,free/reduced,completed,43,45,50
+female,group B,some college,standard,none,79,86,92
+male,group C,associate's degree,free/reduced,completed,78,81,82
+male,group B,some high school,standard,completed,65,66,62
+female,group E,some college,standard,completed,63,72,70
+female,group D,some college,free/reduced,none,58,67,62
+female,group D,bachelor's degree,standard,none,65,67,62
+male,group B,some college,standard,none,79,67,67
+male,group D,bachelor's degree,standard,completed,68,74,74
+female,group D,associate's degree,standard,none,85,91,89
+male,group B,high school,standard,completed,60,44,47
+male,group C,some college,standard,completed,98,86,90
+female,group C,some college,standard,none,58,67,72
+female,group D,master's degree,standard,none,87,100,100
+male,group E,associate's degree,standard,completed,66,63,64
+female,group B,associate's degree,free/reduced,none,52,76,70
+female,group B,some high school,standard,none,70,64,72
+female,group D,associate's degree,free/reduced,completed,77,89,98
+male,group C,high school,standard,none,62,55,49
+male,group A,associate's degree,standard,none,54,53,47
+female,group D,some college,standard,none,51,58,54
+female,group E,bachelor's degree,standard,completed,99,100,100
+male,group C,high school,standard,none,84,77,74
+female,group B,bachelor's degree,free/reduced,none,75,85,82
+female,group D,bachelor's degree,standard,none,78,82,79
+female,group D,some high school,standard,none,51,63,61
+female,group C,some college,standard,none,55,69,65
+female,group C,bachelor's degree,standard,completed,79,92,89
+male,group B,associate's degree,standard,completed,91,89,92
+female,group C,some college,standard,completed,88,93,93
+male,group D,high school,free/reduced,none,63,57,56
+male,group E,some college,standard,none,83,80,73
+female,group B,high school,standard,none,87,95,86
+male,group B,some high school,standard,none,72,68,67
+male,group D,some college,standard,completed,65,77,74
+male,group D,master's degree,standard,none,82,82,74
+female,group A,bachelor's degree,standard,none,51,49,51
+male,group D,master's degree,standard,none,89,84,82
+male,group C,some high school,free/reduced,completed,53,37,40
+male,group E,some college,free/reduced,completed,87,74,70
+female,group C,some college,standard,completed,75,81,84
+male,group D,bachelor's degree,free/reduced,completed,74,79,75
+male,group C,bachelor's degree,standard,none,58,55,48
+male,group B,some high school,standard,completed,51,54,41
+male,group E,high school,standard,none,70,55,56
+female,group C,associate's degree,standard,none,59,66,67
+male,group D,some college,standard,completed,71,61,69
+female,group D,some high school,standard,none,76,72,71
+female,group C,some college,free/reduced,none,59,62,64
+female,group E,some college,free/reduced,completed,42,55,54
+male,group A,high school,standard,none,57,43,47
+male,group D,some college,standard,none,88,73,78
+female,group C,some college,free/reduced,none,22,39,33
+male,group B,some high school,standard,none,88,84,75
+male,group C,associate's degree,free/reduced,none,73,68,66
+female,group D,bachelor's degree,standard,completed,68,75,81
+male,group E,associate's degree,free/reduced,completed,100,100,93
+male,group A,some high school,standard,completed,62,67,69
+male,group A,bachelor's degree,standard,none,77,67,68
+female,group B,associate's degree,standard,completed,59,70,66
+male,group D,bachelor's degree,standard,none,54,49,47
+male,group D,some high school,standard,none,62,67,61
+female,group C,some college,standard,completed,70,89,88
+female,group E,high school,free/reduced,completed,66,74,78
+male,group B,some college,free/reduced,none,60,60,60
+female,group B,associate's degree,standard,completed,61,86,87
+male,group D,associate's degree,free/reduced,none,66,62,64
+male,group B,associate's degree,free/reduced,completed,82,78,74
+female,group E,some college,free/reduced,completed,75,88,85
+male,group B,master's degree,free/reduced,none,49,53,52
+male,group C,high school,standard,none,52,53,49
+female,group E,master's degree,standard,none,81,92,91
+female,group C,bachelor's degree,standard,completed,96,100,100
+male,group C,high school,free/reduced,completed,53,51,51
+female,group B,master's degree,free/reduced,completed,58,76,78
+female,group B,high school,standard,completed,68,83,78
+female,group C,some college,free/reduced,completed,67,75,70
+male,group A,high school,standard,completed,72,73,74
+male,group E,some high school,standard,none,94,88,78
+female,group D,some college,standard,none,79,86,81
+female,group C,associate's degree,standard,none,63,67,70
+female,group C,bachelor's degree,free/reduced,completed,43,51,54
+female,group C,master's degree,standard,completed,81,91,87
+female,group B,high school,free/reduced,completed,46,54,58
+female,group C,associate's degree,standard,completed,71,77,77
+female,group B,master's degree,free/reduced,completed,52,70,62
+female,group D,some high school,standard,completed,97,100,100
+male,group C,master's degree,free/reduced,completed,62,68,75
+female,group C,some college,free/reduced,none,46,64,66
+female,group E,high school,standard,none,50,50,47
+female,group D,associate's degree,standard,none,65,69,70
+male,group C,some high school,free/reduced,completed,45,52,49
+male,group C,associate's degree,free/reduced,completed,65,67,65
+male,group E,high school,standard,none,80,76,65
+male,group D,some high school,standard,completed,62,66,68
+male,group B,some high school,free/reduced,none,48,52,45
+female,group C,bachelor's degree,standard,none,77,88,87
+female,group E,associate's degree,standard,none,66,65,69
+male,group D,some college,standard,completed,76,83,79
+female,group B,some high school,standard,none,62,64,66
+male,group D,some college,standard,completed,77,62,62
+female,group C,master's degree,standard,completed,69,84,85
+male,group D,associate's degree,standard,none,61,55,52
+male,group C,some high school,free/reduced,completed,59,69,65
+male,group E,high school,free/reduced,none,55,56,51
+female,group B,some college,free/reduced,none,45,53,55
+female,group B,bachelor's degree,free/reduced,none,78,79,76
+female,group C,associate's degree,standard,completed,67,84,86
+female,group D,some college,free/reduced,none,65,81,77
+male,group C,associate's degree,standard,none,69,77,69
+female,group B,associate's degree,standard,none,57,69,68
+male,group C,some college,standard,none,59,41,42
+male,group D,some high school,standard,completed,74,71,78
+male,group E,bachelor's degree,standard,none,82,62,62
+male,group E,high school,standard,completed,81,80,76
+female,group B,some college,free/reduced,none,74,81,76
+female,group B,some college,free/reduced,none,58,61,66
+male,group D,some high school,free/reduced,completed,80,79,79
+male,group C,some college,free/reduced,none,35,28,27
+female,group C,high school,free/reduced,none,42,62,60
+male,group C,associate's degree,free/reduced,completed,60,51,56
+male,group E,high school,standard,completed,87,91,81
+male,group B,some high school,standard,completed,84,83,75
+female,group E,associate's degree,free/reduced,completed,83,86,88
+female,group C,high school,free/reduced,none,34,42,39
+male,group B,high school,free/reduced,none,66,77,70
+male,group B,some high school,standard,completed,61,56,56
+female,group D,high school,standard,completed,56,68,74
+male,group B,associate's degree,standard,none,87,85,73
+female,group C,some high school,free/reduced,none,55,65,62
+male,group D,some high school,standard,none,86,80,75
+female,group B,associate's degree,standard,completed,52,66,73
+female,group E,master's degree,free/reduced,none,45,56,54
+female,group C,some college,standard,none,72,72,71
+male,group D,high school,standard,none,57,50,54
+male,group A,some high school,free/reduced,none,68,72,64
+female,group C,some college,standard,completed,88,95,94
+male,group D,some college,standard,none,76,64,66
+male,group C,associate's degree,standard,none,46,43,42
+female,group B,bachelor's degree,standard,none,67,86,83
+male,group E,some high school,standard,none,92,87,78
+male,group C,bachelor's degree,standard,completed,83,82,84
+male,group D,associate's degree,standard,none,80,75,77
+male,group D,bachelor's degree,free/reduced,none,63,66,67
+female,group D,some high school,standard,completed,64,60,74
+male,group B,some college,standard,none,54,52,51
+male,group C,associate's degree,standard,none,84,80,80
+male,group D,high school,free/reduced,completed,73,68,66
+female,group E,bachelor's degree,standard,none,80,83,83
+female,group D,high school,standard,none,56,52,55
+male,group E,some college,standard,none,59,51,43
+male,group D,some high school,standard,none,75,74,69
+male,group C,associate's degree,standard,none,85,76,71
+male,group E,associate's degree,standard,none,89,76,74
+female,group B,high school,standard,completed,58,70,68
+female,group B,high school,standard,none,65,64,62
+male,group C,high school,standard,none,68,60,53
+male,group A,some high school,standard,completed,47,49,49
+female,group D,some college,free/reduced,none,71,83,83
+female,group B,some high school,standard,completed,60,70,70
+male,group D,master's degree,standard,none,80,80,72
+male,group D,high school,standard,none,54,52,52
+female,group E,some college,standard,none,62,73,70
+female,group C,associate's degree,free/reduced,none,64,73,68
+male,group C,associate's degree,standard,completed,78,77,77
+female,group B,some college,standard,none,70,75,78
+female,group C,master's degree,free/reduced,completed,65,81,81
+female,group C,some high school,free/reduced,completed,64,79,77
+male,group C,some college,standard,completed,79,79,78
+female,group C,some high school,free/reduced,none,44,50,51
+female,group E,high school,standard,none,99,93,90
+male,group D,high school,standard,none,76,73,68
+male,group D,some high school,free/reduced,none,59,42,41
+female,group C,bachelor's degree,standard,none,63,75,81
+female,group D,high school,standard,none,69,72,77
+female,group D,associate's degree,standard,completed,88,92,95
+female,group E,some college,free/reduced,none,71,76,70
+male,group C,bachelor's degree,standard,none,69,63,61
+male,group C,some college,standard,none,58,49,42
+female,group D,associate's degree,free/reduced,none,47,53,58
+female,group D,some college,standard,none,65,70,71
+male,group B,some college,standard,completed,88,85,76
+male,group C,bachelor's degree,standard,none,83,78,73
+female,group C,some high school,standard,completed,85,92,93
+female,group E,high school,standard,completed,59,63,75
+female,group C,some high school,free/reduced,none,65,86,80
+male,group B,bachelor's degree,free/reduced,none,73,56,57
+male,group D,high school,standard,none,53,52,42
+male,group D,high school,standard,none,45,48,46
+female,group D,bachelor's degree,free/reduced,none,73,79,84
+female,group D,some college,free/reduced,completed,70,78,78
+female,group B,some high school,standard,none,37,46,46
+male,group B,associate's degree,standard,completed,81,82,82
+male,group E,associate's degree,standard,completed,97,82,88
+female,group B,some high school,standard,none,67,89,82
+male,group B,bachelor's degree,free/reduced,none,88,75,76
+male,group E,some high school,standard,completed,77,76,77
+male,group C,associate's degree,standard,none,76,70,68
+male,group D,some high school,standard,none,86,73,70
+male,group C,some high school,standard,completed,63,60,57
+female,group E,bachelor's degree,standard,none,65,73,75
+male,group D,high school,free/reduced,completed,78,77,80
+male,group B,associate's degree,free/reduced,none,67,62,60
+male,group A,some high school,standard,completed,46,41,43
+male,group E,associate's degree,standard,completed,71,74,68
+male,group C,high school,free/reduced,completed,40,46,50
+male,group D,associate's degree,free/reduced,none,90,87,75
+male,group A,some college,free/reduced,completed,81,78,81
+male,group D,some high school,free/reduced,none,56,54,52
+female,group C,associate's degree,standard,completed,67,84,81
+male,group B,associate's degree,standard,none,80,76,64
+female,group C,associate's degree,standard,completed,74,75,83
+male,group A,some college,standard,none,69,67,69
+male,group E,some college,standard,completed,99,87,81
+male,group C,some high school,standard,none,51,52,44
+female,group B,associate's degree,free/reduced,none,53,71,67
+female,group D,high school,free/reduced,none,49,57,52
+female,group B,associate's degree,standard,none,73,76,80
+male,group B,bachelor's degree,standard,none,66,60,57
+male,group D,bachelor's degree,standard,completed,67,61,68
+female,group C,associate's degree,free/reduced,completed,68,67,69
+female,group C,bachelor's degree,standard,completed,59,64,75
+male,group C,high school,standard,none,71,66,65
+female,group D,master's degree,standard,completed,77,82,91
+male,group C,associate's degree,standard,none,83,72,78
+male,group B,bachelor's degree,standard,none,63,71,69
+female,group D,associate's degree,free/reduced,none,56,65,63
+female,group C,high school,free/reduced,completed,67,79,84
+female,group E,high school,standard,none,75,86,79
+female,group C,some college,standard,none,71,81,80
+female,group C,some high school,free/reduced,none,43,53,53
+female,group C,high school,free/reduced,none,41,46,43
+female,group C,some college,standard,none,82,90,94
+male,group C,some college,standard,none,61,61,62
+male,group A,some college,free/reduced,none,28,23,19
+male,group C,associate's degree,standard,completed,82,75,77
+female,group B,some high school,standard,none,41,55,51
+male,group C,high school,standard,none,71,60,61
+male,group C,associate's degree,standard,none,47,37,35
+male,group E,associate's degree,standard,completed,62,56,53
+male,group B,associate's degree,standard,none,90,78,81
+female,group C,bachelor's degree,standard,none,83,93,95
+female,group B,some college,free/reduced,none,61,68,66
+male,group D,some high school,standard,completed,76,70,69
+male,group C,associate's degree,standard,none,49,51,43
+female,group B,some high school,free/reduced,none,24,38,27
+female,group D,some high school,free/reduced,completed,35,55,60
+male,group C,high school,free/reduced,none,58,61,52
+female,group C,high school,standard,none,61,73,63
+female,group B,high school,standard,completed,69,76,74
+male,group D,associate's degree,standard,completed,67,72,67
+male,group D,some college,standard,none,79,73,67
+female,group C,high school,standard,none,72,80,75
+male,group B,some college,standard,none,62,61,57
+female,group C,bachelor's degree,standard,completed,77,94,95
+male,group D,high school,free/reduced,none,75,74,66
+male,group E,associate's degree,standard,none,87,74,76
+female,group B,bachelor's degree,standard,none,52,65,69
+male,group E,some college,standard,none,66,57,52
+female,group C,some college,standard,completed,63,78,80
+female,group C,associate's degree,standard,none,46,58,57
+female,group C,some college,standard,none,59,71,70
+female,group B,bachelor's degree,standard,none,61,72,70
+male,group A,associate's degree,standard,none,63,61,61
+female,group C,some college,free/reduced,completed,42,66,69
+male,group D,some college,free/reduced,none,59,62,61
+female,group D,some college,standard,none,80,90,89
+female,group B,high school,standard,none,58,62,59
+male,group B,some high school,standard,completed,85,84,78
+female,group C,some college,standard,none,52,58,58
+female,group D,some high school,free/reduced,none,27,34,32
+male,group C,some college,standard,none,59,60,58
+male,group A,bachelor's degree,free/reduced,completed,49,58,60
+male,group C,high school,standard,completed,69,58,53
+male,group C,bachelor's degree,free/reduced,none,61,66,61
+female,group A,some high school,free/reduced,none,44,64,58
+female,group D,some high school,standard,none,73,84,85
+male,group E,some college,standard,none,84,77,71
+female,group C,some college,free/reduced,completed,45,73,70
+male,group D,some high school,standard,none,74,74,72
+female,group D,some college,standard,completed,82,97,96
+female,group D,bachelor's degree,standard,none,59,70,73
+male,group E,associate's degree,free/reduced,none,46,43,41
+female,group D,some high school,standard,none,80,90,82
+female,group D,master's degree,free/reduced,completed,85,95,100
+female,group A,some high school,standard,none,71,83,77
+male,group A,bachelor's degree,standard,none,66,64,62
+female,group B,associate's degree,standard,none,80,86,83
+male,group C,associate's degree,standard,completed,87,100,95
+male,group C,master's degree,free/reduced,none,79,81,71
+female,group E,some high school,free/reduced,none,38,49,45
+female,group A,some high school,free/reduced,none,38,43,43
+female,group E,some college,standard,none,67,76,75
+female,group E,bachelor's degree,standard,none,64,73,70
+female,group C,associate's degree,free/reduced,none,57,78,67
+female,group D,high school,standard,none,62,64,64
+male,group D,master's degree,standard,none,73,70,75
+male,group E,some high school,free/reduced,completed,73,67,59
+female,group D,some college,standard,none,77,68,77
+male,group E,some college,standard,none,76,67,67
+male,group C,associate's degree,standard,completed,57,54,56
+female,group C,some high school,standard,completed,65,74,77
+male,group A,high school,free/reduced,none,48,45,41
+female,group B,high school,free/reduced,none,50,67,63
+female,group C,associate's degree,standard,none,85,89,95
+male,group B,some high school,standard,none,74,63,57
+male,group D,some high school,standard,none,60,59,54
+female,group C,some high school,standard,completed,59,54,67
+male,group A,some college,standard,none,53,43,43
+female,group A,some college,free/reduced,none,49,65,55
+female,group D,high school,standard,completed,88,99,100
+female,group C,high school,standard,none,54,59,62
+female,group C,some high school,standard,none,63,73,68
+male,group B,associate's degree,standard,completed,65,65,63
+female,group B,associate's degree,standard,none,82,80,77
+female,group D,high school,free/reduced,completed,52,57,56
+male,group D,associate's degree,standard,completed,87,84,85
+female,group D,master's degree,standard,completed,70,71,74
+male,group E,some college,standard,completed,84,83,78
+male,group D,associate's degree,standard,none,71,66,60
+male,group B,some high school,standard,completed,63,67,67
+female,group C,bachelor's degree,free/reduced,completed,51,72,79
+male,group E,high school,standard,none,84,73,69
+male,group C,bachelor's degree,standard,completed,71,74,68
+male,group C,associate's degree,standard,none,74,73,67
+male,group D,some college,standard,none,68,59,62
+male,group E,high school,free/reduced,completed,57,56,54
+female,group C,associate's degree,free/reduced,completed,113,93,93
+female,group D,high school,standard,completed,57,58,64
+female,group D,master's degree,free/reduced,completed,47,58,67
+female,group A,some high school,standard,completed,59,85,80
+male,group B,some college,free/reduced,none,41,39,34
+female,group C,some college,free/reduced,none,62,67,62
+male,group C,bachelor's degree,standard,none,86,83,86
+male,group C,some high school,free/reduced,none,69,71,65
+male,group A,some high school,free/reduced,none,65,59,53
+male,group C,some high school,free/reduced,none,68,63,54
+male,group C,associate's degree,free/reduced,none,64,66,59
+female,group C,high school,standard,none,123,72,70
+male,group C,high school,standard,none,?,56,55
+female,group A,some high school,free/reduced,none,?,59,50
+male,group C,some high school,standard,none,?,66,66
+male,group C,some college,free/reduced,completed,?,48,53
+male,group D,associate's degree,standard,none,?,68,64
+male,group D,associate's degree,free/reduced,none,?,66,73
+male,group C,high school,sÓ¬VÁ2üIþ«kþéçÐyôgÊéÙŒ$œŸ¦3§xqh‚9³d*ª‘ÓÚ´Ús%.22H/µº„»¸éºÆ7¥Ç*1ËtÓ ü•67ÇæBm†$NÅ¤“¾ÛÊl$3¦
+!á•™rßèB3îx—QÑ9JƒX/Ùð,uT¹–¢S9Ktø=®™‹ŸÑ·µ¤­://‹>p^7»î«¦#Œ”çÐmÞõ‚N7vövÃ~ÌŒ€)ÑˆZ+-4e)|Y,`ñÃ
+d®²ªú[#BÝiÉï£—{›ÌJ£8B.õào_*/â“ã-Ø»úe§è§R;‚2?Ÿ=ifÖ®ÑàœÃ¯.·lrqºØ$Pì 3U#ÿœµìÆ§sý“•úDaæ°š@cYëÃ	Hž\õƒ%Lwn‘(c%ã*ÂW;ô/¡t…^<7¼eú&@ŽìCÔ3Ä2bQÚµ±@¯*MÃû¿Ì¹ˆ&#ÄÿzŒ¿Æ^Ta+¨G%¶ë×ÇI{Ø+,_L–.¨.ˆƒýñ´’¸rà™Âyèäµ]Ö“Ý‘Ù=4¨1Êy¶8®ð&’ÔËÔàõnäMâ=±ÛqóØøìùHü}ßüØCê·0×íŽØ  ¤	aâ²%:À¾~1'Ì§¡§´Î‚ËD6Ï×4ÕRX×‘g?Ó­0È¯ù|Ÿ	
+AÛÒ°¤Ä—¼d‘]%ô%€`Ñncx-Í€å¢.ZÙÚf€T²ôµÎN¸â6= f0/ýÑçjñL-óšt -|´KÎdò66¬'ì
+ÔÕýab¨¡C¶¬n»ÅŠ(h©= >85ªç<³‡9ÚÉ¹á‹°åÙîôÃ§÷å¨ÉÚ«˜‰×iµ„ O]fè’Z4oÎ—n>¶ÊÉ^³£Õ÷†âÚãó‹» 8Ùt4N™yöÍ4Ê¢%Ö"Í¥wQ~ ÿ&)#ÎP‘c¡ûžwÔ@Æ‡ÞˆáÜ™èKŒèï9¦ÁP*”'?;ˆ'H¿šû”í7í¬·m
+ßYv¡_¤ÐY½ƒŠu¦NÄêßö?Ã˜õß€Ðª!¨•7!ßmëý¼{Ó§×HÝ»“È4£½1nÌA˜ô´ûµ+9údÌ“ÂÓ#Ïs›|1[ÄNj¸ª š{„Ž°æHŠ’ôf¡’¼<În—DtCÊE¥¤`"òJøÑpJùº/x¢YÞËºÒù¤"®ïdh&ŒýJC&Ä–×ôÜ=]¢clãÌû;T†;?sãºm‚P÷a°ò†‹wp¸èîRÝ¤Ñ2Æä”›Ø„ê'æíT§¿Ž5•³3Í?Fëµæ!'¿|ÂÇíÎ–EÓK	›¯ 6û´@BŸåÔÁ3`‡,³9äMMâÛˆˆq
+£Qï½¾ú
+{ìHXÈÓñ•T¯º›ùBýï~C@b2¦ˆPÌ­F'Æ@!Õöí™¿bëFz§ý(»˜DÏ´~Æk [“g„›œÈT	í@i¾k±K§Éa\,UùÌäFÁÿ!,Dk0èŒÖj¦8+ƒf«u<~!9(>ëö‰mõÔ+½â_³-*L¨€ÚM¡Ú×`v¾^"”+£ËÞuÒSpK’Án®`ð¨moå¶à[<^¸/.àEß/éî/¾6¬{¿
+-®T“Üú¢Xµ°c;Ê«U‘
+hZ„\ƒlLõN=‘v‘›±)†¡=…¸dESÔþÜï"5µ¥ÆAJ®“lí“Xâ™•_šT­XG×çäªbOó4&ÎqWm¶3j`¬ñÖ³pä«tW !zÏX »Ïm¨ë÷j<	‘H€utã}ë0•a H×\ºvLêÇc1-+'Óå[Uó+d4ƒD…"4ÞÞ£ÀRübß%Ÿj@xƒŸÐÜÎÁ,"}Þ8š“Rv×°Íi÷~òtÌ^ÚF¼œ²0¾@ÅÂCõõÊ%ª*$nhôÖÚÝwàn4QJc‹±äž|XöWpÛDû×
+Q¦½XÃ_
+‚—áªvòÑ¢Þ-?éÒ ß‹\Q6kbzû;Ô‚ÔÌ=äƒãØ5Þ‰Š§üiSÞ\EÍbˆi1ÿq DÑÿQ­1£Ôœý‡[û¡å8à<¸|.>¼-‘»\ôè^)’o<`<ÛËoA²¾Aû¾§Âí§;–É(\ÊlªÌ=h­s/É²mp§Lôgz’–GÉÎe™lS·´ÏÖ_®7ÙÏÃúÔ·Ü	>q5LÞo³ôü(wëâÏF‰”Ž}þ•ïáfµ\½è¸ÁoÅ•)u=D¸0l·Rö…_WLp=}¨×ó*Oæ‘\Nt‘=Ò‘bÊ€to†üóbdÒºCDåþ‹Æ`Œ „¤úHqbe¹Á&Åý¬zuÄo¬¶bo^AT‡ûGÜki•J?.-]Èº\ÌïÊ:èÐÖ)A^`’‰3<"°Æåÿà½¸ÖUI·«,­ésy‹®¦dŽßý³86(…°*;,’‘ówÁ¨:F‚uj=bê-m&åPÙ<§Ã†Ü^›Ùïn¦þ¿¥m9§ª+OuÎˆ,ÄD8cèû÷§$Ôô;ou`Úâ˜oî:Lÿ©½ã4ëÖ¬2Y3~®­èu
+¶ô•=»<ñšJ>EV8I¢÷¬¨/ãø˜p¬ÀéÖ«`™þ$ÿÕµ
+ÿôsè<ú3åôlFÎOÓ™S¼84ÁœY2ÕÈimZí¹™¤—Z]Â]Üt]ã›Òc•˜e	ºiþ€J››cs¡6	C§â@ÒIßme6’Ó	…†ðÊL¹ot¡‡w¼Ë¨è¥A¬—Àlx–:ª\ËÑ©œ%:ü×ÌÅ€ÏèÛZÒV——E8¯›]÷UÓ†FÊsè6ïzA§;{»a?fFÀ”hD­•š²”¾¬N°øa2WYÕGý­¡î´ä÷ÑË½Mf%Š‡Q!—zð·/•ñÉñŠì]ý²SôS©NA™ŸÏž43k×hpÎáW—[6¹8]l(v€™ªÇ‘ÆÎZvãÓ¹þÉJ}¢0sXM ±¬õá$O®úÁ¦‰;·ÈÇ?”±’qá«ú—PºB/ž›
+Þ2} Gö!êb±(íÚX W•¦áý_æ\D“â=Æ_c/ª°Ô£Ûõëã¤=ì–/&KTÄÁþxZI\9ðƒLá€<tòÚ.ëÉîÈìÔå¼ÛNWxIêejðz7Hr‚&ñžØí¸ylüŽö|$þ¾Îo~ì!õ[˜ëöGlPÒ„Ç° qÙ’`_?Š˜æÓÐSZgÁe"›çkšj)¬ëÈ…³‰Ÿ†éVä×|¾Ï‰ í	iXRâK^²È®’úˆ@°h·1¼–fÀrQ­lm3@*YúZHg'\q›3˜—þèŒsµø¦–yM:€>Ú%g2ùÖÎvêêþ01ÔPŽ![	V·ÝbE´TŒž PœÕsžÙ†ÃíäÜðEØÇòŒl÷úá¿ÓûrÔdíUÌÄë´ZB€§.3tI-š7çK7[åˆd¯ÙÑê{CqíñyŠÅÝ œl:'„Ì<ûfeÑk‘æÒ»(?€“”‘?g¨È±ÐýÏ;ê ãCoÄpîLô%Fô÷Ó`(ÊŠ“ŸÄ¤_Í}Êö›vÖÛ¶…ï,»Ð/Rè¬ÞÀŠAÅ:S'bõoûŸaÌúo@hÕÔÊ¿›ïˆ¶õþFÞ½éÓk¤îÝIdšÑÞ7æ LzÚýÚ•}2æIáé‘ç¹ÀM¾˜-b'5ÜU
+PÍÆ=BGXs$EIz³PIÞg·ŠK"º!e¢RR0y%üh8¥|Ý…<Ñ,ïe]é|R×w24Æ~¥!bËëzîž®ÑÀ1¶qæ}‚*Ã†Ÿ¹q]Š6A(û0XyÃÅ;8\tw©nÒhcrÊMlÂ
+õóvªÓ_ÇšJ„Ù™æ£õZó“€_>áãvgË‚¢é¥„ÍW€›}Z ¡Ïrêà°C–¿Ùò¦&ñmDÄ8…Ñ¨÷^_}…=v$,äéøJ*‹WÝÍ|¡þ÷Î‰G¿! 1HSD(æV£c jûöÌ_±u#=„Ó~”]L¢gZ?ã5€­É³ÂÍ
+NäGª„v 4ßµØ¥Óä0.–ª|fr£àÿ‰–F¢µ tFk5Sœ•A³Õ:ž?¿ŸuûŠÄ¶zj†•^ñ/ÈÙ&T@í¦PíkH0;ß/Ê•Ñeïƒ:é…)¸%É`7W0xÔ¶·r[ð-/Üð¢Šï—ô÷_›?Ö=_…WªIn}Q¬ZØ±åÕªH4-BŠ@®A6¦z§žH;‚ÀÈÍØÃÐžBÜ²Š")jî÷‘šÚRã %×I¶ÀöI,ñL‚Ê/MªV,‡£ësrU±§yç¸«6Û50Ö†xëY8òUº+‚Ð½g,ÐŠŒÝç6Tõ{5ž„H$À::Šñ¾u˜Ê0P¤k®	];&u†ã±˜–•“éò­ªù2šA"ŽBoïQ`)~±ï‡O5  ¼ÁOhnç`‘>oÍI©‚»kØæ4‚{?y:f/m#^ÎÀGY_ Èbá¡úzåU74zkíî;p7š(¥±ÅXrO>,û«¸m¢ýk…(Ó^¬á/ÁËpU»@ùhQï–Ÿti€ïE®(›51½ýjAjæÈŽ?rˆÁqìšïDÅSþ´)ï®Î¢f1D†´˜ÿ8 ¢èÎÿ¨Ö˜QjÎþÃ­ýÐrœp	Ü@>—Þ–È].zt¯É70žíå·‹ Yß }ßSáöÓK‡d.e6UæŽ´†Ö¹—dÙ6¸S&	Ž
+z‡3=IË£dç²L¶©[Úgë/×›ìça}ê[îŸ¸&ï·Yz~H”»uñg£DJÇ>ÿÊ÷ð³Z®^t\ˆà·âÊ”ºŠ"\6[)ûÂ¯+&¸ž>Ôëy•‡'óH.'ºHÈéH1e@º7Cþy12iÝ!¢rÿEc0FPBRý	¤@‡8±²Ü`“â~V½:â7V[±7¯ ªC‰ý#îµŒ´J¥—–.d].ƒæwethë” /0ÉÄ‚XãòðÞ‚\ëª¤ÛÕF–Öt¹¼EWS2ÇïþYœG”BX•IƒÈù»`T#AŒ:µ1õ–€6“r¨lžÓaCn¯‹Íìw·GSÿßRŠ¶œSÕ•§Š†:gDb¢Fœ1ôýûSjú·:0mqÌ7w¦ÿÔÞqšukV¬?×Vô:[úÊž]žø@Í%Ÿ"+œ$Q‡{VÔ—q|L8Vàôë…U°Ì’ÿêZ…ú9tý™rz6#	ç§éÌ)^š`Î,™Šjä´6­ö\‰‹Ì‡ÒÆK­.á.nº®ñMé±JÌ²Ý4@¥ÍÍ±¹P›„!‰Sq é¤ï¶2ÉŒé„BÃ@Hxe¦ƒÜ7º…ÐÃŒ;ÞeTtŽÒÇ ÖK`6<KU®åƒèTÎ~kæbÀgôm-i«ÎËË¢œ×Í®ûªiÃ#å9t›w½ Ó½Ý°3#`J4¢ÖJMYÊ_V'Xü°…™«¬ê£þÖ‡PwZòûèåÞ&³ÅÃ(ŽK=øÛ—Ê‹øäxEö®~Ù)ú©ÔN§ ÌÏgOš™µ…k48çðÀ«‡Ë-›\œ.¶	;ÀLÕãHã?g-»ñé\ÿd¥>Q˜9¬&ÐXÖúp’'Wý`	ÓÄ[äãÊXÉ¸ŠðÕýK(]¡ÏMo™¾	#ûõ±ŒX”vm,Ð«JÓðþ/s.¢Éñ¿ã¯±UØ
+êQ	„íúõqÒö
+Ë—“%ªâ`<­$®øA¦p@:ym—õdwdvjŒrÞƒm'Ž+¼‰$õ25x½$9A“xOìvÜ<6~Ç {>_ç7?öú-Ìuû€#6(iÂcX€¸lÉ†0¯EÌ	óiè)­€³à2‘Íó5MµÖuäÂÙÄOÃt+òk>ßg‚‚DÐö„4,)ñ%/YdWÉ}D	 X´Û^K³`¹¨‹V¶¶ •¬}-¤³®¸MˆÌKtÆ¹Z|SË¼&@Ÿí’3™ü…kç	»uu˜j(Ç­«Ûn±"
+Z*FO ¨Nê9ÏlÃaŽvrnø"ìcyF¶{ýðßé}9j²ö*fâuÚF-!ÀS—º¤Í›ó¥›­rD²×ìhõ½¡¸öø<Åâî€‡ƒF N6Bfž}32„h‰µHsé]”À¿IÊÈ‚3TäXè~„çuñ¡7b8w&ú#ú{Ži0”
+eÅÉÏâ	Ò¯æ>eûM;ëm[†Âw–]è)tVo`Å b©±ú·ýÏ0fý7 ´jjåßMÈwDÛz#ïÞôé5R÷î$2ÍhoŒs&=í~íJŽ>ó¤ðôÈó\à&_Ì±“n„*¨fã¡#¬9’¢$½Y¨$o³[Å%Ý²FQ))˜ˆ¼~4œR¾îÂžh–÷²®t>©ˆë;š	c¿Ò	±åõ=wOWhàÛ8ó>ÁN‚áÃÏÜ¸.E› ”Ç}¬¼áâ®º»T7i´Œ19å&6a…ú‰y;Õé¯cM%ÂìÌ@óÑz­yÈIÀ/Ÿðq»³eAÑôRÂæ+ÀÍ>-Ðg9uðØ!ËßlySø6"bœÂhÔ{¯¯>ƒÂ;òt|%•Å«îf¾ÐFÿ{çÄ£ß˜¤)"s«Ñ‰1PHµ}{æ¯Øº‘Âi¿ Ê.&Ñ3­ŸñÀÖäYƒáf'ò#UB;PšïZìÒirKU>3¹QðÿDK#ÑZ º £ƒµš)ÎÊ ÙjÏŸ_HŠÏ:}Eb[=5ÃJ¯øäl‹
+* vS¨ö5$‡o‡—ˆåÊè²÷A‡ôÂÜ’d°›+<jÛ[¹-øî‹xQÅ÷Kú†€û‹¯ÍëžÇ¯B‹+Õ$·¾(V-ìØŽòjU¤š!E × S½SO¤A`äflŠahO!nYE‘Çµ?÷ûHMm©q’ë$[`û$–x&Aå—&U+–ÃÑõ9¹ƒªØÓ<‰sÜU›íŒkC¼õ,ù*ÝÁhˆÞ3hEÆîsªÆú½OB$`Åxß:Le˜(Ò5×„®“:ÃñXLËÊÉtùVÕü
+Í G¡·÷(°¿Øw‰Ã§P Þà'4·s0‹HŸ7Žæ¤TA†Ý5lsÁ½Ÿ<³—¶ƒ/gà£,Œ/d±ðP}½r‰ª
+‰½µv÷¸M”ÒØb,¹'–ýUÜ6ÑþµB”i/Öð—‚àe¸ª] |´(„wËOº4À÷"W”Íš˜Þþµ µsdÇ9Äà8vMw¢â)Ú”wWgQ³"CZÌ QtçTkÌ(5gÿáÖ~h9Î¸n ŸK†oKä.=ºWŠäÏöòÛE¬oÐ¾ï©pûéŽ¥C2
+—2›*sGZCëÜK²lÜ)“G½Ã™ž¤åQ²sY&ÛÔ-í³õ—ëMöó°>õ-w‚O\“÷Û,=?$ÊÝºø³Q"¥cŸå{ø†Y-W/:.Dð[ñFeJ]E.›Æ­”}á×\Oêõ¼ÊÃ“y$—]$dt¤˜2 ÝÇ›!ÿ¼™´îQ¹ÿ¢1#(!©þR ÇCœXYn°Iq?«^ñ«­Ø›WÕ¡Äþ÷ÚGFZ¥ÒKK².—Áó»²:´uJ˜dbÁ¬qù?xoA®uUÒíj#KkºÇ\Þ¢«)™ãÇwÿ,Î£J!¬Ê‹¤Aäü]0ªŽ‘ FZ˜zK@›I9T6Ïé°!·×…Åfö»Û£©ÿo)ÅF[Î©êÊSEC3"1Q#Îúþý)	5ýÎ[˜¶8æ›»ÎÓjï8Íº5«ŒGÖŒŸk+z‡‚-}eÏ.O| æ…’O‘N’¨Ã=+êË8>&+pú‚õÀÂ*Xf?Éu­Â?ý:‚þL9=›‘„óÓtæ/M0g–LE5rZ›V{®ÄEæCiã¥V—p7]×ø¦ôX%fY‚nš„? ÒææØ\¨MÂÄ©8tÒw[™€dÆtB¡a $¼2ÓAîÝBèaÆï2*:Gécë%0ž¥Ž*×òAt*g‰¿Ç5s1à3ú¶–´UçåeÑÎëf×}Õ´a„‘òºÍ»^ÐéÆÎÞnØ™0%Qk¥…¦,å‚ƒ/«“,~ØBÌUVõQk„C¨;-ù}ôro“Y‰âaGÈ¥üíKåE|r¼¢{W¿ìýTj§SPæç³'ÍÌÚÂ5œsxàÕÃå–M.NÛƒŠ`¦êq¤ñŸ³–Ýøt®²RŸ(ÌVh,k}8É“«~°„iâÎ-òñe¬d\Eøj‡þ%”®Ð‹ç¦‚·LßÈ‘}ˆz†XF,J»6èU¥ixÿ—9Ñd„ø_ñ×Ø*lõ¨Âvýú8i{…åËƒÉ’ÀÕq°?žVWü S8 ¼¶Ëz²;2»‡5F9ïÁ¶ÇÞD’z™¼Þ’œ I¼'v;n¿c€=‰¿¯ó›{Hýæº}À”4á1,@\¶dC˜À×"æ„ù4ô”VÀYp™Èæùš¦Z
+ë:rálâ§€aºù5Ÿï3AA"h{B–”ø’—,²«ä>¢,Úm¯¥Ù°\ÔE+[ÛJVƒ¾ÒÙ	WÜ¦Äæ¥?:ã\->‚©e^“ …ÏvÉ™LþÂÆ†µó„]ºº?L5”cÈV‚Õm·X-£' Ô§Fõœg¶á0G;97|ö±<#Û½€~øïô¾5Y{3ñ:m£–à©Ë]R‹æÍùÒÍÇV9"Ùkv´úÞP\{|žbqwÀÃA# '›ŽÆ	!3Ï¾™FB´ÄZ¤¹ô.Êàß$eäÁ*r,t?ÂóŽºÈøÐ1œ;}‰ý=Ç4J…²âägñéWsŸ²ý¦õ¶-Cá;ËÀ.ô‹:«7°bP±ÎÔ‰XýÛþg³þZ5µòï&ä;¢m½¿‘woúô©{w™f´7Æ9“žv¿v%GŸŒyRxzäy.p“/f‹ØI7B•T³qÐÖIQ’Þ,T’·ÇÙ­â’ˆnHY£¨”LD^	?N)_wáO4Ë{Ù@W:ŸTÄõÍ„±_iÈ„Øòúƒž»§«@4pŒmœyŸ`§
+Áp‡ágn\—¢MÊã>VÞpñ×Ý]ª›4ZÆ˜œr›°BýÄ¼êô×±¦avf ùÇh½Ö<ä$à—Oø¸ÝÙ² hz)aóàÀfŸHè³œ:xìåo6‡¼©‰€@|1Na4ê½×WŸAa	y:¾’ÊâUw3_h£ÿ½sâÑoHLÒŠ¹ÕèÄ(¤Ú¾=óWlÝHá´_ e“è™ÖÏx`kò¬Á‚p³‚ù‘*¡(Íw-vé49Œ‹¥*Ÿ™Ü(ø"„¥‘h- ]€ÑÁZÍgeÐlµŽçÏ/$ÅgÀ¾"±­žša¥Wür¶E…	P»)TûŒÃÎ·ÃKÄƒretÙû ŽCza
+nI2ØÍµí­Ü|‹Ç÷Å¼¨âû%ýCÀýÅ×æuÏãW¡Å•j’[_«vlGyµ*RM‹"k©Þ©'ÒŽ 0r36Å0´§·€¬¢ÈcŠÚŸûý@¤¦¶Ô8HÉu’-°}K<“ òK“ªËáèúœÜAUìižÆÄ9îªÍvFŒµ!ÞzŽ|•îŠ`4Dï´"c÷¹Ucý^'!	°ŽŽb¼o¦2ÌéškB×ŽIáx,¦eådº|«j~…Œf‚ˆ£P„ÆÛ{XŠ_ì»ÄáS( oðšÛ9˜E¤ÏGsRª Ãî¶9àÞOŽÙKÛÁˆ—3ðQÆ²Xx¨¾^¹DU…ÄÞZ»ûÜ&Jil1–Ü“Ëþª n›hÿZ!Ê´køKAð2\Õ.P>ZÂ»å']à{‘+ÊfMLo‡ZÚ€¹²ãbp»¦À;Qñ”?mÊ;ƒ«³¨Y‘!-æ?€(ºó?ª5f”š³ÿpk?´ç\‚7Ï%Ã‡·%r—ƒ‹Ý+EòŒg{ùí"HÖ7hß÷T¸ýtÇÒ!…K™M•¹£­¡uî%Y¶î”I‚£‚ÞáLOÒò(Ù¹,“mê–öÙúËõ&ûyXŸú–;Á'®†Éûm–žån]üÙ(‘Ò±Ï¿ò=|Ã¬–«"ø­x£2¥®‡¢€†MãVÊ¾ðëŠ	®§õz^åáÉ<’Ë‰.²G:RLîãÍ^ŒLZwˆ¨ÜÑŒ”T)Ðã!N¬,7Ø¤¸ŸU¯ŽøÕÖ@ìÍ+ˆêPbÿˆ{í##­RéÇ¥¥Y—Ëàƒù]YÚ:%ÈL2±`†GÖ¸ü¼· ×º*évµ‘¥5Ýc.oÑÕ”Ìñã»çÑ¥Ve‡EÒ rþ.UÇH£N­GL½% Í¤*çtØÛëÂb3ûÝíÑÔÿ·”b£-çTuå©¢¡Î‘…˜¨g}ÿþ”„š~ç­L[óÍ]gƒé?µwœfÝšUÆ#kÆÏµ½CÁ–¾²g—'>PóBÉ§È
+'IÔážõeŽ8}Áz`a,³ÀŸä¿ºVáŸ~Ž A¦œžÍHÂùi:sŠ‡&˜3K¦¢9­M«=Wâ"ó!ƒ´ñR«K¸‹›®k|Sz¬³,A7ÍÂPissl.Ô&aHâTH:é»­LÀF2c:¡Ð0^™é ÷n!ô0ãŽw£ô1ˆõ˜ÏRG•kù :•³D‡ßãš¹ð}[KÚªóò²èçu³ë¾jÚ0ÂHyÝæ]/ètcgo7ìÇÌ˜¨µÒBS–rÁÁ—ÕÉ?l¡@æ*«ú¨¿5Â!Ô–ü>z¹·É¬Dñ0Š#äRþö¥ò">9^Ñ‚½«_vŠ~*µÓ)(óóÙ“ffmáÎ9<ðêárË&§‹íAÅ0Sõ8ÒøÏYËn|:×?Y©Of«	4–µ>œ€äÉU?XÂ4qçùø‡2V2®"|µCÿJWèÅsSÁ[¦oäÈ>D=C,#¥]‹ ôªÒ4¼ÿËœ‹h2Bü¯Çøkì…@¶‚zTa»~}œ´‡½ÂòåÁdIà‚ê‚8ØO+‰+~)‡N^Ûe=Ù™ÝCƒ£œ÷`Û‰ã
+o"I½L^ïINÐ$Þ»7ß1ÀžÄß×ùÍ=¤~sÝ>àˆJšð .[²¡LàëGsÂ|zJ+à,¸Ldó|MS-…u¹p6ñSÀ0Ý
+ƒüšÏ÷™  ´=!KJ|ÉKÙUò@Qí6†×ÒìX.ê¢•­mH%«A_éì„+nÓbóÒq®ÁÔ2¯IÐÂç@»äL&acÃÚyÂ®@]Ý&†Ê1d+Áê¶[¬ˆ‚–ŠÑ êƒS£zÎ3Ûp˜£œ¾ûXž‘í^@?üwz_Žš¬½Š™x¶QKðÔe†.©Eóæ|éæc«‘ì5;Z}o(®=>O±¸;àá ‘€“MGã„™gßL£!Zb-Ò\zåðo’2ò‡à9ºáyGÝ d|èÎ‰¾Äˆþžc¥BYqò³ƒx‚ô«¹OÙ~ÓÎzÛ–¡ðe`úE
+ÕX1¨XgêD¬þmÿ3ŒYÿ­‚ZùwòÑ¶ÞßÈ»7}zÔ½;‰L3ÚãÆ„IO»_»’£OÆ<)<=ò<¸É³Eì¤†¡JªÙ¸GèkŽ¤(Io*ÉÛÀãìVqID7¤¬QTJ
+&"¯„§”¯»ð‚'šå½l +O*âúN†fÂØ¯4dBlyýAÏÝÓU 8Æ6Î¼O°Ó@…`¸Ãð37®KÑ&åq+o¸x‡ë€î.ÕM-cLN¹‰MX¡~bÞNuúëXS‰0;3Ðüc´^krðË'|ÜîlYP4½”°ù
+p`³O$ôYN<vÈò7›CÞÔD@ ¾ˆ§0õÞë«Ï °ÇŽ„…<_Ieñª»™/´ÑÿÞ9ñè7„$&iŠÅÜjtbRmßžù+¶n¤‡pÚ/€²‹IôLëg¼°5yÖ`A¸YÁ‰üH•Ð”æ»»tšÆÅR•ÏLnü?ÂÒH´ ƒ.Àè`­fŠ³2h¶ZÇóç’ƒâ³N`_‘ØVOÍ°Ò+þ9Û¢Â„
+¨Ýª}	ÆaçÛá%âA¹2ºì}PÇ!½0·$ìæ
+ÚöVn¾Åã…ûâ^Tñý’þ!àþâkóÇºçñ«ÐâJ5É­/ŠU;¶£¼Z©À€¦EHÈ5ÈÆTïÔiG¹›bÚSˆ[@VQä1EíÏý~ RS[j¤ä:ÉØ>‰%žIPù¥IÕŠåpt}Nî *ö4OcâwÕf;£ÆÚo=G¾JwE°¢÷ŒZ‘±ûÜ†ª±~¯Æ“‰XGG1Þ·SæŠtÍ5¡kÇ¤Îp<Ó²r2]¾U5¿BF3AÄQ(Bãí=
+,Å/ö]âð©€7ø	ÍíÌ"Òç£9)UawÛœFpï'@Çì¥í`ÄËø(ãY,<T_¯\¢ªBâ†Fo­Ý}îF¥4¶KîÉ‡eU ·M´­eÚ‹5ü¥ x®j(-
+áÝò“.ð½Èe³&¦·¿C-HmÀÜÙñG18Ž]Sà¨xÊŸ6åÁÕYÔ,†Èó@ÝùÕ3JÍÙ¸µZŽó.ÁƒÈç’áÃÛ¹ËÁEî•"ùÆÆ³½üv$ë´ï{*Ü~ºcéŒÂ¥Ì¦ÊÜÑƒÖÐ:÷’,ÛwÊ$ÁQAïp¦'iy”ì\–É6uKûlýåz“ý<¬O}ËàWÃäý6KÏ‰r·.þl”HéØç_ù¾aVËÕ‹ŽüV¼Q™R×CQ@„Ã¦q+e_øuÅ×Ó‡z=¯òðdÉåD	Ù#)¦H÷ñfÈ?/F&­;DTî¿hÆJHª?èñ'V–lRÜÏªWGüÆjk öæDu(±Ä½ö‘‘V©ôãÒÒ…¬ËeðÁÀü®¬ƒmä&™X0Ã#k\þÞ[Ð€k]•t»ÚÈÒšî1—·èjJæøñÝ?‹óhƒRÈ«²Ã"i9Œªc$ˆQ§Ö#¦ÞÐfR•Às:lÈíua±™ýîöhêÿ[J±Ñ–sªºòTÑPçŒÈBLÔˆ3†¾JBM¿óV¦-Žùæ®³ÁôŸÚ;N³nÍ*ã‘5ãçÚŠ^‡À¡`K_Ù³Ë¨y¡äSd…“$êpÏŠú2Ž	Ç
+œ¾`=°°
+–YàOò_]«ðO?G€Îƒ ?SNÏf$áü49Å‹CÌ™%SQœÖ¦Õž+q‘ùAÚx©Õ%ÜÅM×5¾)=V‰Y– ›æ á¨´¹96j“0$q*$ôÝV&`#™1Ph	¯ÌtûF·z˜qÇ»ŒŠÎQúÄz	Ì†g©£Êµ|ÊY¢ÃïqÍ\øŒ¾­%mÕyyYôóºÙu_5ma¤<‡nó®tº±³·öcfL‰FÔZi¡)K¹ààËêd‹¶P s•U}ÔßáêNK~½ÜÛdV¢xÅr©ûRyŸ¯hÁÞÕ/;E?•Úé”ùùìI3³¶pçxõp¹e“‹ÓÅö b˜©ziüç¬e7>ëŸ¬Ô'
+3‡ÕËZN@òäª,aš¸s‹|üC+W¾Ú¡	¥+ôâ¹©à-Ó7rd¢ž!–‹Ò®E zUiÞÿeÎE4!þ×cü5öB 
+[A=*°]¿>NÚÃ^aùò`²$pAuAì§•ÄÀ•?ÈÈC'¯í²žìŽÌî¡AQÎ{°íÄq…7‘¤^¦¯wƒ$'hï‰ÝŽ›ÇÆï`ÏGâïëüæÇR¿…¹npÄ%Mx—-ÙÐ &ðõ£ˆ9a>=¥p\&²y¾¦©–ÂºŽ\8›ø)`˜n…A~ÍçûLPÚž†%%¾ä%‹ì*y (‹vÃkiö ,uÑÊÖ6¤’Õ ¯…tvÂ·é1ƒyéÎ8W‹`j™×¤hás ]r&“¿°±aí<aW ®îCå²•`uÛ-VDAKÅè	 õÁ©Q=ç™m8ÌÑNÎ_„},ÏÈv/ þ;½/GMÖ^ÅL¼NÛ¨%xê2C—Ô¢ys¾tó±UŽHöš­¾7×Ÿ§XÜðpÐÈ ÀÉ¦£qBÈÌ³o¦Q†-±i.½‹òø7IùCp†ŠÝð¼£n 2>ôFçÎD_bDÏ1†R¡¬8ùÙA<AúÕÜ§l¿ig½mËPøÎ2°ý"…Îê¬T¬3u"Vÿ¶ÿÆ¬ÿ„VA­ü»	ùŽh[ïoäÝ›>½FêÞD¦íqcÂ¤§Ý¯]ÉÑ'cžžyžÜä‹Ù"vRÃP¥ ÕlÜ#t„5GR”¤7•ämàqv«¸$¢RÖ(*%‘WÂ†SÊ×]xÁÍò^6Ð•Î'q}'C3aìW2!¶¼þ çîé*cgÞ'Øi B0Üaø™×¥h„ò¸ƒ•7\¼ƒÃu@w—ê&–1&§ÜÄ&¬P?1o§:ýu¬©D˜hþ1Z¯59	øå>nw¶,(š^JØ|8°Ù§ú,§ž;dù›Í!oj" ßFDŒSzïõÕgPØcGÂBžŽ¯¤²xÕÝÌÚèïœxôÂ “4E„bn5:1
+©¶oÏü[7ÒC8í@ÙÅ$z¦õ3^Øš<k° Ü¬àD~¤JhJó]‹]:Mãb©Êg&7
+þŸai$Z€A`t°V3ÅY4[­ãùóÉAñY'°¯Hl«§fXéÿ‚œmQaBÔn
+Õ¾†ã°óíðñ \]ö>¨ã^˜‚[’vsƒGm{+·ßâñÂ}q/ªø~IÿÀpñµùcÝóøUhq¥šäÖÅª…ÛQ^­ŠT`@Ó"¤ädcªwê‰´#ŒÜŒM1í)Ä- «(ò˜¢öç~?©©-5RrdlŸÄÏ$¨üÒ¤jÅr8º>'wP{š§1qŽ»j³Qcmˆ·ž…#_¥»"Ø Ñ{Æ­ÈØ}nCÕX¿WãIˆD¬££ï[‡©ó EºæšÐµcRg8‹iY9™.ßªš_!£„ â(¡ñö–âû.qøT
+Àü„ævféóÆÑœ”*È°»†mN#¸÷“G cöÒv0âå|”…ñ‚,ª¯W.QU!qC£·Öî¾w£‰R[Œ%÷äÃ²¿*€Û&Ú¿Vˆ2íÅþR¼Wµ”…ðnùI—ø^äŠ²YÓÛß¡¤6`îìø#‡Ç®)ðNT<åO›òÎàê,jCdH‹ù Šîüj¥æì?ÜÚ-Çù —àÁäsÉðám‰Üåà¢G÷J‘|ããÙ^~»’õÚ÷=n?Ý±tHFáRfSeîèAkh{I–mƒ;e’à¨ w8Ó“´<Jv.Ëd›º¥}¶þr½É~Ö§¾åNð‰«aò~›¥ç‡D¹[6J¤tìó¯|ß0«åêEÇ…~+Þ¨L©ë¡( Â…aÓ¸•²/üºb‚ëéC½žWyx2är¢‹„ì‘ŽS¤ûx3äŸ#“Ö"*÷_4c%$ÕŸ@
+ôxˆ+Ë6)îgÕ«#~cµ5{ó
+¢:”Ø?â^ûÈH«TúqiéBÖå2ø``~WÖA‡¶N	ò“L,˜á5.ÿï-hÀµ®Jº]mdiM÷˜Ë[t5%süøîŸÅy´A)ä€UÙa‘4ˆœ¿FÕ1Ä¨SëSo	h3)‡ÊFà96äöº°ØÌ~w{4õÿ-¥ØhË9U]yªh¨sFd!&jÄCß¿?%¡¦ßy«ÓÇ|s×Ù`úOí§Y·f•ñÈšñsmE¯CàP°¥¯ìÙå‰Ô¼Pò)²ÂIu¸gE}ÇÇ„cN_°XXË,ð'ù¯®Uø§Ÿ#@çAÐŸ)§g3’p~šÎœâÅ¡	æÌ’©¨FNkÓjÏ•¸È|È m¼Ôêîâ¦ëß”«Ä,KÐMs€ðTÚÜ›µI’8’Nún+°‘Ì˜N(4„„Wf:È}£[=Ì¸ã]FEç(}b½fÃ³ÔQåZ>ˆNå,Ñá÷¸f.|FßÖ’¶ê¼¼,úÀyÝìº¯š6Œ0RžC·y×:ÝØÙÛû13¦D#j­´Ð”¥\pðeu²€Å[(¹Êª>êopu§%¿^îm2+Q<Œâ¹Ôƒ¿}©¼ˆOŽW´`ïê—¢ŸJít
+Êü|ö¤™Y[¸Fƒs¼z¸Ü²ÉÅéb{@±ÌT=Ž4þsÖ²ŸÎõOVê…™Ãje­' yrÕ–0MÜ¹E>þ¡Œ•Œ«_íÐ¿„ÒzñÜTð–é› 9²QÏËˆEi×Æ" ½ª4ïÿ2ç"šŒÿë1þ{!P…­ •@Ø®_'ía¯°|y0Y¸ º öÇÓJbàÊd
+ä¡“×vYOvGf÷Ð Æ(ç=Øvâ¸Â›HR/Sƒ×»A’4‰÷ÄnÇÍcãw°ç#ñ÷u~óc©ßÂ\·8bƒ€’&<†ˆË–lè@ øúQÄœ0Ÿ†žÒ
+8.Ù<_ÓTKa]G.œMü0L·Â ¿æó}&(HmOHÃ’_ò’Ev•<ÐG” ‚E»áµ4{ –‹ºhek›RÉjÐ×B:;áŠÛô€˜Á¼ôGgœ«ÅG0µÌkÒ´ð9Ð.9“É_ØØ°vž°+PW÷‡‰¡†rÙJ°ºí+¢ ¥bô€úàÔ¨žóÌ6æh'ç†/Â>–gd»ÐÿÞ—£&k¯b&^§mÔ<u™¡KjÑ¼9_ºùØ*G${ÍŽVßŠkÏS,îx8hd àdÓÑ8!dæÙ7Ó(Cˆ–X‹4—ÞEùü›¤Œü!8CEŽ…îGxÞQ7 z#†sg¢/1¢¿ç˜C©PVœüì ž ýjîS¶ß´³Þ¶e(|gØ…~‘BgõV*Ö™:«ÛÿcÖB«† VþÝ„|G´­÷7òîMŸ^#uïN"ÓŒöÆ¸1aÒÓî×®äè“1O
+O<ÏnòÅl;©áF¨R€j6î:Âš#)JÒ›…Jò6ð8»U\Ñ)k•’‚‰È+áGÃ)åë.¼à‰fy/èJç“Š¸¾“¡™0ö+™[^Ðs÷tˆŽ±3ïì4P!î0üÌëR´	ByÜ‡ÁÊ.ÞÁá: »Ku“FË“SnbV¨Ÿ˜·Sþ:ÖT"ÌÎ4ÿ­×š‡œüò	·;[M/%l¾ØìÓ	}–SÏ€²üÍæ75ˆo#"Æ)ŒF½÷úê3(ì±#a!OÇWRY¼ênæmô¿wN<úa ‰É@š"B1·…TÛ·gþŠ­é!œö ìb=Óú¯lMž5XnVp"?R%´¥ù®Å.&‡q±Tå3“ÿO„°4­À 0:X«™â¬š­Öñüù…ä ø¬ØW$¶ÕS3¬ôŠAÎ¶¨0¡j7…j_C‚qØùvx‰xP®Œ.{ÔqH/LÁ-I»¹‚Á£¶½•Û‚oñxá¾¸€U|¿¤`¸¿øÚü±îyü*´¸RMrë‹bÕÂŽí(¯VE*0 iRr²1Õ;õDÚFnÆ¦†öâUyLQûs¿ˆÔÔ–)¹N²¶Ob‰gT~iRµb9]Ÿ“;¨Š=ÍÓ˜8Ç]µÙÎ¨±6Ä[ÏÂ‘¯Ò]l€†è=cVdì>·¡j¬ß«ñ$D"ÖÑQŒ÷­ÃT†y€"]sMèÚ1©3Å´¬œL—oUÍ¯ÑBqŠÐx{Kñ‹}—8|ªà~Bs;³ˆôyãhNJdØ]Ã6§ÜûÉ#Ð1{i;ñr>ÊÂøAÕ×+—¨ª¸¡Ñ[kwß»ÑD)-Æ’{òaÙ_Àmí_+D™öb)^†«ÚÊG‹Bx·ü¤K|/rEÙ¬‰éíïPR0÷@vü‘CŽc×x'*žò§Mygpu5‹!2¤ÅüÇEwþGµÆŒRsöní‡–ã|€Kðàò¹døð¶DîrpÑ£{¥H¾ñ€ñl/¿]Éúíûž
+·ŸîX:$£p)³©2wô 5´Î½$Ë¶Á2IpTÐ;œéIZ%;—e²MÝÒ>[¹Þd?ëSßr'øÄÕ0y¿ÍÒóC¢Ü­‹?%R:öùW¾‡o˜Õrõ¢ãB¿oT¦ÔõPáÂ°iÜJÙ~]1Áõô¡^Ï«<<™Gr9ÑEBöHGŠ)Ò}¼òÏ‹‘Ië•û/ƒ1‚’êO z<Ä‰•å›÷³êÕ¿±Úˆ½yQJìq¯}d¤U*ý¸´t!ër|00¿+ë C[§yI&ÌðˆÀ—ÿƒ÷4àZW%Ý®6²´¦{Ìå-ºš’9~|÷Ïâ<Ú rÀªì°HDÎß£ê	bÔ©õˆ©·´™”Ce#ðœr{]Xlf¿»=šúÿ–Rl´åœª®<U4Ô9#²5âŒ¡ïßŸ’PÓï¼Õi‹c¾¹ël0ý§öŽÓ¬[³ÊxdÍø¹¶¢×!p(ØÒWöìòÄj^(ùYá$‰:Ü³¢¾ŒãcÂ±§/X,¬‚eø“üW×*üÓÏ ó èÏ”Ó³I8?MgNñâÐsfÉTT#§µiµçJ\d>d6^ju	wqÓuoJUb–%è¦9@ø*mnŽÍ…Ú$IœŠI'}·•	ØHfL'BÂ+3ä¾Ñ-„fÜñ.£¢s”>±^³áYê¨r-D§r–èð{\3>£okI[u^^}à¼nvÝWMF)Ï¡Û¼ënììí†ý˜S¢µVZhÊR.8ø²:YÀâ‡-È\eUõ·F8„ºÓ’ßG/÷6™•(Fq„\êÁß¾T^Ä'Ç+Z°wõËNÑO¥v:e~>{ÒÌ¬-\£Á9‡^=\nÙäât±=H ØfªGÿ9kÙOçú'+õ‰ÂÌa5Æ²Ö‡<¹êK˜&îÜ"ÿPÆJÆU„¯vè_Bé
+½xn*xËôM€Ù‡¨gˆeÄ¢´kc€^Uš†÷™sMFˆÿõ½¨ÂVPJ l×¯“ö°WX¾<˜,	\P]ûãi%1påÀ2…òÐÉk»¬'»#³{hPc”ól;q\áM$©—©ÁëÝ É	šÄ{b·ãæ±ñ;Øó‘øû:¿ù±‡Ôoa®Û±A@IÃÄeK6t €	|ý(bN˜OCOiœ—‰lž¯iª¥°®#Î&~
+¦[a_óù>$‚¶'¤aI‰/yÉ"»Jè#J Á¢ÝÆðZš= ËE]´²µÍ ©d5èk!pÅmz@Ì`^ú£3ÎÕâ#˜Zæ5é Zøh—œÉä/llX;OØ¨«ûÃÄPC9†l%XÝv‹QÐR1z@}pjTÏyfs´“sÃaË3²Ýè‡ÿNïËQ“µW1¯Ó6j	žºÌÐ%µhÞœ/Ý|l•#’½fG«ïÅµÇç)w<42 p²éhœ2óì›i”!DK¬EšKï¢ü þMRFþœ¡"ÇB÷#<ï¨€Œ½Ã¹3Ñ—ÑßsLƒ¡T(+N~vO~5÷)ÛoÚYoÛ2¾³ìB¿H¡³z+ëLˆÕ¿í†1ë¿¡UCP+ÿnB¾#ÚÖûy÷¦O¯‘ºw'‘iF{cÜ˜ƒ0éi÷kWrôÉ˜'…§Gžç7ùb¶ˆÔp#T)@5÷aÍ‘%éÍB%yxœÝ*.‰è†”5ŠJIÁDä•ð£á”òu^ðD³¼—t¥óIE\ßÉÐLû•†Lˆ-¯?è¹{º
+DÇØÆ™÷	v¨w~æÆu)Ú¡<îÃ`åïàpÐÝ¥ºI£eŒÉ)7±	+ÔOÌÛ©Nk*fgšŒÖkÍCN~ù„Û-Š¦—6_löi„>Ë©ƒgÀYþfsÈ›šÄ·ãF£Þ{}õöØ‘°§ã+©,^u7ó…6úß;'ý†0€Äd M¡˜[NŒBªíÛ3ÅÖôNûPv1‰žiýŒ× ¶&Ï,7+8‘©ÚÒ|×b—N“Ã¸Xªò™É‚ÿ'BX‰Ö`Ð¬ÕLqVÍVëxþüBrP|Ö	ì+Ûê©VzÅ¿ g[T˜Pµ›Bµ¯!Á8ì|;¼D<(WF—½ê8¤¦à–$ƒÝ\ÁàQÛÞÊmÁ·x¼p_\À‹*¾_Ò?0Ü_|mþX÷<~Z\©&¹õE±jaÇv”W«"Ð´)¹Ù˜êz"í#7cSC{
+qÈ*Š<¦¨ý¹ßDjjKƒ”\'ÙÛ'±Ä3	*¿4©Z±Ž®ÏÉTÅžæiLœã®ÚlgÔÀXâ­gáÈWé®6@Côž±@+2vŸÛP5ÖïÕx"‘ ëè(ÆûÖa*Ã<@‘®¹&tí˜ÔŽÇbZVN¦Ë·ªæWÈh!ˆ8
+Eh¼½G¥øÅ¾K>Õ€ð?¡¹ƒYDú¼q4'¥
+2ì®a›Óîýäè˜½´Œx9ea| ‹…‡êë•KTUHÜÐè­µ»ïÀÝh¢”ÆcÉ=ù°ì¯
+à¶‰ö¯¢L{±†¿/ÃUíå£E!¼[~Ò¥¾¹¢lÖÄôöw¨©˜{ ;þÈ!Ç±k
+¼OùÓ¦¼3¸:‹šÅÒbþã ˆ¢;ÿ£ZcF©9û·öCËq>À%xpù\2|x["w9¸èÑ½R$ßxÀx¶—ß.‚d}ƒö}O…ÛOw,’Q¸”ÙT™;zÐZç^’eÛàN™$8*èÎô$-’Ë2Ù¦niŸ­¿\o²Ÿ‡õ©o¹|âj˜¼ßféù!QîÖÅŸ)ûü+ßÃ7Ìj¹zÑq!‚ßŠ7*Sêz(
+ˆpaØ4n¥ì¿®˜àzúP¯çUžÌ#¹œè"!{¤#Å”é>ÞùçÅÈ¤u‡ˆÊýÁA	Iõ'=âÄÊrƒMŠûYõêˆßXmÄÞ¼‚¨%ö¸×>2Ò*•~\Zºu¹>˜ß•uÐ¡­S‚¼À$fxD`ËÿÁ{p­«’nWYZÓ=æò]MÉ?¾ûgqmP
+9`UvX$"çï‚QuŒ1êÔzÄÔ[ÚLÊ¡²xN‡¹½.,6³ßÝMýK)6ÚrNUWž*êœYˆ‰qÆÐ÷ïOI¨éwÞêÀ´Å1ßÜu6˜þS{ÇiÖ­Ye<²fü\[Ñë8lé+{vyâ5/”|Š¬p’DîYQ_Æñ1áXÓ¬VÁ2üIþ«kþéçÐyôgÊéÙŒ$œŸ¦3§xqh‚9³d*ª‘ÓÚ´Ús%.22H/µº„»¸éºÆ7¥Ç*1ËtÓ ü•67ÇæBm†$NÅ¤“¾ÛÊl$3¦
+!á•™rßèB3îx—QÑ9JƒX/Ùð,uT¹–¢S9Ktø=®™‹ŸÑ·µ¤­://‹>p^7»î«¦#Œ”çÐmÞõ‚N7vövÃ~ÌŒ€)ÑˆZ+-4e)|Y,`ñÃ
+d®²ªú[#BÝiÉï£—{›ÌJ£8B.õào_*/â“ã-Ø»úe§è§R;‚2?Ÿ=ifÖ®ÑàœÃ¯.·lrqºØ$Pì 3U#ÿœµìÆ§sý“•úDaæ°š@cYëÃ	Hž\õƒ%Lwn‘(c%ã*ÂW;ô/¡t…^<7¼eú&@ŽìCÔ3Ä2bQÚµ±@¯*MÃû¿Ì¹ˆ&#ÄÿzŒ¿Æ^Ta+¨G%¶ë×ÇI{Ø+,_L–.¨.ˆƒýñ´’¸rà™Âyèäµ]Ö“Ý‘Ù=4¨1Êy¶8®ð&’ÔËÔàõnäMâ=±ÛqóØøìùHü}ßüØCê·0×íŽØ  ¤	aâ²%:À¾~1'Ì§¡§´Î‚ËD6Ï×4ÕRX×‘g?Ó­0È¯ù|Ÿ	
+AÛÒ°¤Ä—¼d‘]%ô%€`Ñncx-Í€å¢.ZÙÚf€T²ôµÎN¸â6= f0/ýÑçjñL-óšt -|´KÎdò66¬'ì
+ÔÕýab¨¡C¶¬n»ÅŠ(h©= >85ªç<³‡9ÚÉ¹á‹°åÙîôÃ§÷å¨ÉÚ«˜‰×iµ„ O]fè’Z4oÎ—n>¶ÊÉ^³£Õ÷†âÚãó‹» 8Ùt4N™yöÍ4Ê¢%Ö"Í¥wQ~ ÿ&)#ÎP‘c¡ûžwÔ@Æ‡ÞˆáÜ™èKŒèï9¦ÁP*”'?;ˆ'H¿šû”í7í¬·m
+ßYv¡_¤ÐY½ƒŠu¦NÄêßö?Ã˜õß€Ðª!¨•7!ßmëý¼{Ó§×HÝ»“È4£½1nÌA˜ô´ûµ+9údÌ“ÂÓ#Ïs›|1[ÄNj¸ª š{„Ž°æHŠ’ôf¡’¼<În—DtCÊE¥¤`"òJøÑpJùº/x¢YÞËºÒù¤"®ïdh&ŒýJC&Ä–×ôÜ=]¢clãÌû;T†;?sãºm‚P÷a°ò†‹wp¸èîRÝ¤Ñ2Æä”›Ø„ê'æíT§¿Ž5•³3Í?Fëµæ!'¿|ÂÇíÎ–EÓK	›¯ 6û´@BŸåÔÁ3`‡,³9äMMâÛˆˆq
+£Qï½¾ú
+{ìHXÈÓñ•T¯º›ùBýï~C@b2¦ˆPÌ­F'Æ@!Õöí™¿bëFz§ý(»˜DÏ´~Æk [“g„›œÈT	í@i¾k±K§Éa\,UùÌäFÁÿ!,Dk0èŒÖj¦8+ƒf«u<~!9(>ëö‰mõÔ+½â_³-*L¨€ÚM¡Ú×`v¾^"”+£ËÞuÒSpK’Án®`ð¨moå¶à[<^¸/.àEß/éî/¾6¬{¿
+-®T“Üú¢Xµ°c;Ê«U‘
+hZ„\ƒlLõN=‘v‘›±)†¡=…¸dESÔþÜï"5µ¥ÆAJ®“lí“Xâ™•_šT­XG×çäªbOó4&ÎqWm¶3j`¬ñÖ³pä«tW !zÏX »Ïm¨ë÷j<	‘H€utã}ë0•a H×\ºvLêÇc1-+'Óå[Uó+d4ƒD…"4ÞÞ£ÀRübß%Ÿj@xƒŸÐÜÎÁ,"}Þ8š“Rv×°Íi÷~òtÌ^ÚF¼œ²0¾@ÅÂCõõÊ%ª*$nhôÖÚÝwàn4QJc‹±äž|XöWpÛDû×
+Q¦½XÃ_
+‚—áªvòÑ¢Þ-?éÒ ß‹\Q6kbzû;Ô‚ÔÌ=äƒãØ5Þ‰Š§üiSÞ\EÍbˆi1ÿq DÑÿQ­1£Ôœý‡[û¡å8à<¸|.>¼-‘»\ôè^)’o<`<ÛËoA²¾Aû¾§Âí§;–É(\ÊlªÌ=h­s/É²mp§Lôgz’–GÉÎe™lS·´ÏÖ_®7ÙÏÃúÔ·Ü	>q5LÞo³ôü(wëâÏF‰”Ž}þ•ïáfµ\½è¸ÁoÅ•)u=D¸0l·Rö…_WLp=}¨×ó*Oæ‘\Nt‘=Ò‘bÊ€to†üóbdÒºCDåþ‹Æ`Œ „¤úHqbe¹Á&Åý¬zuÄo¬¶bo^AT‡ûGÜki•J?.-]Èº\ÌïÊ:èÐÖ)A^`’‰3<"°Æåÿà½¸ÖUI·«,­ésy‹®¦dŽßý³86(…°*;,’‘ówÁ¨:F‚uj=bê-m&åPÙ<§Ã†Ü^›Ùïn¦þ¿¥m9§ª+OuÎˆ,ÄD8cèû÷§$Ôô;ou`Úâ˜oî:Lÿ©½ã4ëÖ¬2Y3~®­èu
+¶ô•=»<ñšJ>EV8I¢÷¬¨/ãø˜p¬ÀéÖ«`™þ$ÿÕµ
+ÿôsè<ú3åôlFÎOÓ™S¼84ÁœY2ÕÈimZí¹™¤—Z]Â]Üt]ã›Òc•˜e	ºiþ€J››cs¡6	C§â@ÒIßme6’Ó	…†ðÊL¹ot¡‡w¼Ë¨è¥A¬—Àlx–:ª\ËÑ©œ%:ü×ÌÅ€ÏèÛZÒV——E8¯›]÷UÓ†FÊsè6ïzA§;{»a?fFÀ”hD­•š²”¾¬N°øa2WYÕGý­¡î´ä÷ÑË½Mf%Š‡Q!—zð·/•ñÉñŠì]ý²SôS©NA™ŸÏž43k×hpÎáW—[6¹8]l(v€™ªÇ‘ÆÎZvãÓ¹þÉJ}¢0sXM ±¬õá$O®úÁ¦‰;·ÈÇ?”±’qá«ú—PºB/ž›
+Þ2} Gö!êb±(íÚX W•¦áý_æ\D“â=Æ_c/ª°Ô£Ûõëã¤=ì–/&KTÄÁþxZI\9ðƒLá€<tòÚ.ëÉîÈìÔå¼ÛNWxIêejðz7Hr‚&ñžØí¸ylüŽö|$þ¾Îo~ì!õ[˜ëöGlPÒ„Ç° qÙ’`_?Š˜æÓÐSZgÁe"›çkšj)¬ëÈ…³‰Ÿ†éVä×|¾Ï‰ í	iXRâK^²È®’úˆ@°h·1¼–fÀrQ­lm3@*YúZHg'\q›3˜—þèŒsµø¦–yM:€>Ú%g2ùÖÎvêêþ01ÔPŽ![	V·ÝbE´TŒž PœÕsžÙ†ÃíäÜðEØÇòŒl÷úá¿ÓûrÔdíUÌÄë´ZB€§.3tI-š7çK7[åˆd¯ÙÑê{CqíñyŠÅÝ œl:'„Ì<ûfeÑk‘æÒ»(?€“”‘?g¨È±ÐýÏ;ê ãCoÄpîLô%Fô÷Ó`(ÊŠ“ŸÄ¤_Í}Êö›vÖÛ¶…ï,»Ð/Rè¬ÞÀŠAÅ:S'bõoûŸaÌúo@hÕÔÊ¿›ïˆ¶õþFÞ½éÓk¤îÝIdšÑÞ7æ LzÚýÚ•}2æIáé‘ç¹ÀM¾˜-b'5ÜU
+PÍÆ=BGXs$EIz³PIÞg·ŠK"º!e¢RR0y%üh8¥|Ý…<Ñ,ïe]é|R×w24Æ~¥!bËëzîž®ÑÀ1¶qæ}‚*Ã†Ÿ¹q]Š6A(û0XyÃÅ;8\tw©nÒhcrÊMlÂ
+õóvªÓ_ÇšJ„Ù™æ£õZó“€_>áãvgË‚¢é¥„ÍW€›}Z ¡Ïrêà°C–¿Ùò¦&ñmDÄ8…Ñ¨÷^_}…=v$,äéøJ*‹WÝÍ|¡þ÷Î‰G¿! 1HSD(æV£c jûöÌ_±u#=„Ó~”]L¢gZ?ã5€­É³ÂÍ
+NäGª„v 4ßµØ¥Óä0.–ª|fr£àÿ‰–F¢µ tFk5Sœ•A³Õ:ž?¿ŸuûŠÄ¶zj†•^ñ/ÈÙ&T@í¦PíkH0;ß/Ê•Ñeïƒ:é…)¸%É`7W0xÔ¶·r[ð-/Üð¢Šï—ô÷_›?Ö=_…WªIn}Q¬ZØ±åÕªH4-BŠ@®A6¦z§žH;‚ÀÈÍØÃÐžBÜ²Š")jî÷‘šÚRã %×I¶ÀöI,ñL‚Ê/MªV,‡£ësrU±§yç¸«6Û50Ö†xëY8òUº+‚Ð½g,ÐŠŒÝç6Tõ{5ž„H$À::Šñ¾u˜Ê0P¤k®	];&u†ã±˜–•“éò­ªù2šA"ŽBoïQ`)~±ï‡O5  ¼ÁOhnç`‘>oÍI©‚»kØæ4‚{?y:f/m#^ÎÀGY_ Èbá¡úzåU74zkíî;p7š(¥±ÅXrO>,û«¸m¢ýk…(Ó^¬á/ÁËpU»@ùhQï–Ÿti€ïE®(›51½ýjAjæÈŽ?rˆÁqìšïDÅSþ´)ï®Î¢f1D†´˜ÿ8 ¢èÎÿ¨Ö˜QjÎþÃ­ýÐrœp	Ü@>—Þ–È].zt¯É70žíå·‹ Yß }ßSáöÓK‡d.e6UæŽ´†Ö¹—dÙ6¸S&	Ž
+z‡3=IË£dç²L¶©[Úgë/×›ìça}ê[îŸ¸&ï·Yz~H”»uñg£DJÇ>ÿÊ÷ð³Z®^t\ˆà·âÊ”ºŠ"\6[)ûÂ¯+&¸ž>Ôëy•‡'óH.'ºHÈéH1e@º7Cþy12iÝ!¢rÿEc0FPBRý	¤@‡8±²Ü`“â~V½:â7V[±7¯ ªC‰ý#îµŒ´J¥—–.d].ƒæwethë” /0ÉÄ‚XãòðÞ‚\ëª¤ÛÕF–Öt¹¼EWS2ÇïþYœG”BX•IƒÈù»`T#AŒ:µ1õ–€6“r¨lžÓaCn¯‹Íìw·GSÿßRŠ¶œSÕ•§Š†:gDb¢Fœ1ôýûSjú·:0mqÌ7w¦ÿÔÞqšukV¬?×Vô:[úÊž]žø@Í%Ÿ"+œ$Q‡{VÔ—q|L8Vàôë…U°Ì’ÿêZ…ú9tý™rz6#	ç§éÌ)^š`Î,™Šjä´6­ö\‰‹Ì‡ÒÆK­.á.nº®ñMé±JÌ²Ý4@¥ÍÍ±¹P›„!‰Sq é¤ï¶2ÉŒé„BÃ@Hxe¦ƒÜ7º…ÐÃŒ;ÞeTtŽÒÇ ÖK`6<KU®åƒèTÎ~kæbÀgôm-i«ÎËË¢œ×Í®ûªiÃ#å9t›w½ Ó½Ý°3#`J4¢ÖJMYÊ_V'Xü°…™«¬ê£þÖ‡PwZòûèåÞ&³ÅÃ(ŽK=øÛ—Ê‹øäxEö®~Ù)ú©ÔN§ ÌÏgOš™µ…k48çðÀ«‡Ë-›\œ.¶	;ÀLÕãHã?g-»ñé\ÿd¥>Q˜9¬&ÐXÖúp’'Wý`	ÓÄ[äãÊXÉ¸ŠðÕýK(]¡ÏMo™¾	#ûõ±ŒX”vm,Ð«JÓðþ/s.¢Éñ¿ã¯±UØ
+êQ	„íúõqÒö
+Ë—“%ªâ`<­$®øA¦p@:ym—õdwdvjŒrÞƒm'Ž+¼‰$õ25x½$9A“xOìvÜ<6~Ç {>_ç7?öú-Ìuû€#6(iÂcX€¸lÉ†0¯EÌ	óiè)­€³à2‘Íó5MµÖuäÂÙÄOÃt+òk>ßg‚‚DÐö„4,)ñ%/YdWÉ}D	 X´Û^K³`¹¨‹V¶¶ •¬}-¤³®¸MˆÌKtÆ¹Z|SË¼&@Ÿí’3™ü…kç	»uu˜j(Ç­«Ûn±"
+Z*FO ¨Nê9ÏlÃaŽvrnø"ìcyF¶{ýðßé}9j²ö*fâuÚF-!ÀS—º¤Í›ó¥›­rD²×ìhõ½¡¸öø<Åâî€‡ƒF N6Bfž}32„h‰µHsé]”À¿IÊÈ‚3TäXè~„çuñ¡7b8w&ú#ú{Ži0”
+eÅÉÏâ	Ò¯æ>eûM;ëm[†Âw–]è)tVo`Å b©±ú·ýÏ0fý7 ´jjåßMÈwDÛz#ïÞôé5R÷î$2ÍhoŒs&=í~íJŽ>ó¤ðôÈó\à&_Ì±“n„*¨fã¡#¬9’¢$½Y¨$o³[Å%Ý²FQ))˜ˆ¼~4œR¾îÂžh–÷²®t>©ˆë;š	c¿Ò	±åõ=wOWhàÛ8ó>ÁN‚áÃÏÜ¸.E› ”Ç}¬¼áâ®º»T7i´Œ19å&6a…ú‰y;Õé¯cM%ÂìÌ@óÑz­yÈIÀ/Ÿðq»³eAÑôRÂæ+ÀÍ>-Ðg9uðØ!ËßlySø6"bœÂhÔ{¯¯>ƒÂ;òt|%•Å«îf¾ÐFÿ{çÄ£ß˜¤)"s«Ñ‰1PHµ}{æ¯Øº‘Âi¿ Ê.&Ñ3­ŸñÀÖäYƒáf'ò#UB;PšïZìÒirKU>3¹QðÿDK#ÑZ º £ƒµš)ÎÊ ÙjÏŸ_HŠÏ:}Eb[=5ÃJ¯øäl‹
+* vS¨ö5$‡o‡—ˆåÊè²÷A‡ôÂÜ’d°›+<jÛ[¹-øî‹xQÅ÷Kú†€û‹¯ÍëžÇ¯B‹+Õ$·¾(V-ìØŽòjU¤š!E × S½SO¤A`äflŠahO!nYE‘Çµ?÷ûHMm©q’ë$[`û$–x&Aå—&U+–ÃÑõ9¹ƒªØÓ<‰sÜU›íŒkC¼õ,ù*ÝÁhˆÞ3hEÆîsªÆú½OB$`Åxß:Le˜(Ò5×„®“:ÃñXLËÊÉtùVÕü
+Í G¡·÷(°¿Øw‰Ã§P Þà'4·s0‹HŸ7Žæ¤TA†Ý5lsÁ½Ÿ<³—¶ƒ/gà£,Œ/d±ðP}½r‰ª
+‰½µv÷¸M”ÒØb,¹'–ýUÜ6ÑþµB”i/Öð—‚àe¸ª] |´(„wËOº4À÷"W”Íš˜Þþµ µsdÇ9Äà8vMw¢â)Ú”wWgQ³"CZÌ QtçTkÌ(5gÿáÖ~h9Î¸n ŸK†oKä.=ºWŠäÏöòÛE¬oÐ¾ï©pûéŽ¥C2
+—2›*sGZCëÜK²lÜ)“G½Ã™ž¤åQ²sY&ÛÔ-í³õ—ëMöó°>õ-w‚O\“÷Û,=?$ÊÝºø³Q"¥cŸå{ø†Y-W/:.Dð[ñFeJ]E.›Æ­”}á×\Oêõ¼ÊÃ“y$—]$dt¤˜2 ÝÇ›!ÿ¼™´îQ¹ÿ¢1#(!©þR ÇCœXYn°Iq?«^ñ«­Ø›WÕ¡Äþ÷ÚGFZ¥ÒKK².—Áó»²:´uJ˜dbÁ¬qù?xoA®uUÒíj#KkºÇ\Þ¢«)™ãÇwÿ,Î£J!¬Ê‹¤Aäü]0ªŽ‘ FZ˜zK@›I9T6Ïé°!·×…Åfö»Û£©ÿo)ÅF[Î©êÊSEC3"1Q#Îúþý)	5ýÎ[˜¶8æ›»ÎÓjï8Íº5«ŒGÖŒŸk+z‡‚-}eÏ.O| æ…’O‘N’¨Ã=+êË8>&+pú‚õÀÂ*Xf?Éu­Â?ý:‚þL9=›‘„óÓtæ/M0g–LE5rZ›V{®ÄEæCiã¥V—p7]×ø¦ôX%fY‚nš„? ÒææØ\¨MÂÄ©8tÒw[™€dÆtB¡a $¼2ÓAîÝBèaÆï2*:Gécë%0ž¥Ž*×òAt*g‰¿Ç5s1à3ú¶–´UçåeÑÎëf×}Õ´a„‘òºÍ»^ÐéÆÎÞnØ™0%Qk¥…¦,å‚ƒ/«“,~ØBÌUVõQk„C¨;-ù}ôro“Y‰âaGÈ¥üíKåE|r¼¢{W¿ìýTj§SPæç³'ÍÌÚÂ5œsxàÕÃå–M.NÛƒŠ`¦êq¤ñŸ³–Ýøt®²RŸ(ÌVh,k}8É“«~°„iâÎ-òñe¬d\Eøj‡þ%”®Ð‹ç¦‚·LßÈ‘}ˆz†XF,J»6èU¥ixÿ—9Ñd„ø_ñ×Ø*lõ¨Âvýú8i{…åËƒÉ’ÀÕq°?žVWü S8 ¼¶Ëz²;2»‡5F9ïÁ¶ÇÞD’z™¼Þ’œ I¼'v;n¿c€=‰¿¯ó›{Hýæº}À”4á1,@\¶dC˜À×"æ„ù4ô”VÀYp™Èæùš¦Z
+ë:rálâ§€aºù5Ÿï3AA"h{B–”ø’—,²«ä>¢,Úm¯¥Ù°\ÔE+[ÛJVƒ¾ÒÙ	WÜ¦Äæ¥?:ã\->‚©e^“ …ÏvÉ™LþÂÆ†µó„]ºº?L5”cÈV‚Õm·X-£' Ô§Fõœg¶á0G;97|ö±<#Û½€~øïô¾5Y{3ñ:m£–à©Ë]R‹æÍùÒÍÇV9"Ùkv´úÞP\{|žbqwÀÃA# '›ŽÆ	!3Ï¾™FB´ÄZ¤¹ô.Êàß$eäÁ*r,t?ÂóŽºÈøÐ1œ;}‰ý=Ç4J…²âägñéWsŸ²ý¦õ¶-Cá;ËÀ.ô‹:«7°bP±ÎÔ‰XýÛþg³þZ5µòï&ä;¢m½¿‘woúô©{w™f´7Æ9“žv¿v%GŸŒyRxzäy.p“/f‹ØI7B•T³qÐÖIQ’Þ,T’·ÇÙ­â’ˆnHY£¨”LD^	?N)_wáO4Ë{Ù@W:ŸTÄõÍ„±_iÈ„Øòúƒž»§«@4pŒmœyŸ`§
+Áp‡ágn\—¢MÊã>VÞpñ×Ý]ª›4ZÆ˜œr›°BýÄ¼êô×±¦avf ùÇh½Ö<ä$à—Oø¸ÝÙ² hz)aóàÀfŸHè³œ:xìåo6‡¼©‰€@|1Na4ê½×WŸAa	y:¾’ÊâUw3_h£ÿ½sâÑoHLÒŠ¹ÕèÄ(¤Ú¾=óWlÝHá´_ e“è™ÖÏx`kò¬Á‚p³‚ù‘*¡(Íw-vé49Œ‹¥*Ÿ™Ü(ø"„¥‘h- ]€ÑÁZÍgeÐlµŽçÏ/$ÅgÀ¾"±­žša¥Wür¶E…	P»)TûŒÃÎ·ÃKÄƒretÙû ŽCza
+nI2ØÍµí­Ü|‹Ç÷Å¼¨âû%ýCÀýÅ×æuÏãW¡Å•j’[_«vlGyµ*RM‹"k©Þ©'ÒŽ 0r36Å0´§·€¬¢ÈcŠÚŸûý@¤¦¶Ô8HÉu’-°}K<“ òK“ªËáèúœÜAUìižÆÄ9îªÍvFŒµ!ÞzŽ|•îŠ`4Dï´"c÷¹Ucý^'!	°ŽŽb¼o¦2ÌéškB×ŽIáx,¦eådº|«j~…Œf‚ˆ£P„ÆÛ{XŠ_ì»ÄáS( oðšÛ9˜E¤ÏGsRª Ãî¶9àÞOŽÙKÛÁˆ—3ðQÆ²Xx¨¾^¹DU…ÄÞZ»ûÜ&Jil1–Ü“Ëþª n›hÿZ!Ê´køKAð2\Õ.P>ZÂ»å']à{‘+ÊfMLo‡ZÚ€¹²ãbp»¦À;Qñ”?mÊ;ƒ«³¨Y‘!-æ?€(ºó?ª5f”š³ÿpk?´ç\‚7Ï%Ã‡·%r—ƒ‹Ý+EòŒg{ùí"HÖ7hß÷T¸ýtÇÒ!…K™M•¹£­¡uî%Y¶î”I‚£‚ÞáLOÒò(Ù¹,“mê–öÙúËõ&ûyXŸú–;Á'®†Éûm–žån]üÙ(‘Ò±Ï¿ò=|Ã¬–«"ø­x£2¥®‡¢€†MãVÊ¾ðëŠ	®§õz^åáÉ<’Ë‰.²G:RLîãÍ^ŒLZwˆ¨ÜÑŒ”T)Ðã!N¬,7Ø¤¸ŸU¯ŽøÕÖ@ìÍ+ˆêPbÿˆ{í##­RéÇ¥¥Y—Ëàƒù]YÚ:%ÈL2±`†GÖ¸ü¼· ×º*évµ‘¥5Ýc.oÑÕ”Ìñã»çÑ¥Ve‡EÒ rþ.UÇH£N­GL½% Í¤*çtØÛëÂb3ûÝíÑÔÿ·”b£-çTuå©¢¡Î‘…˜¨g}ÿþ”„š~ç­L[óÍ]gƒé?µwœfÝšUÆ#kÆÏµ½CÁ–¾²g—'>PóBÉ§È
+'IÔážõeŽ8}Áz`a,³ÀŸä¿ºVáŸ~Ž A¦œžÍHÂùi:sŠ‡&˜3K¦¢9­M«=Wâ"ó!ƒ´ñR«K¸‹›®k|Sz¬³,A7ÍÂPissl.Ô&aHâTH:é»­LÀF2c:¡Ð0^™é ÷n!ô0ãŽw£ô1ˆõ˜ÏRG•kù :•³D‡ßãš¹ð}[KÚªóò²èçu³ë¾jÚ0ÂHyÝæ]/ètcgo7ìÇÌ˜¨µÒBS–rÁÁ—ÕÉ?l¡@æ*«ú¨¿5Â!Ô–ü>z¹·É¬Dñ0Š#äRþö¥ò">9^Ñ‚½«_vŠ~*µÓ)(óóÙ“ffmáÎ9<ðêárË&§‹íAÅ0Sõ8ÒøÏYËn|:×?Y©Of«	4–µ>œ€äÉU?XÂ4qçùø‡2V2®"|µCÿJWèÅsSÁ[¦oäÈ>D=C,#¥]‹ ôªÒ4¼ÿËœ‹h2Bü¯Çøkì…@¶‚zTa»~}œ´‡½ÂòåÁdIà‚ê‚8ØO+‰+~)‡N^Ûe=Ù™ÝCƒ£œ÷`Û‰ã
+o"I½L^ïINÐ$Þ»7ß1ÀžÄß×ùÍ=¤~sÝ>àˆJšð .[²¡LàëGsÂ|zJ+à,¸Ldó|MS-…u¹p6ñSÀ0Ý
+ƒüšÏ÷™  ´=!KJ|ÉKÙUò@Qí6†×ÒìX.ê¢•­mH%«A_éì„+nÓbóÒq®ÁÔ2¯IÐÂç@»äL&acÃÚyÂ®@]Ý&†Ê1d+Áê¶[¬ˆ‚–ŠÑ êƒS£zÎ3Ûp˜£œ¾ûXž‘í^@?üwz_Žš¬½Š™x¶QKðÔe†.©Eóæ|éæc«‘ì5;Z}o(®=>O±¸;àá ‘€“MGã„™gßL£!Zb-Ò\zåðo’2ò‡à9ºáyGÝ d|èÎ‰¾Äˆþžc¥BYqò³ƒx‚ô«¹OÙ~ÓÎzÛ–¡ðe`úE
+ÕX1¨XgêD¬þmÿ3ŒYÿ­‚ZùwòÑ¶ÞßÈ»7}zÔ½;‰L3ÚãÆ„IO»_»’£OÆ<)<=ò<¸É³Eì¤†¡JªÙ¸GèkŽ¤(Io*ÉÛÀãìVqID7¤¬QTJ
+&"¯„§”¯»ð‚'šå½l +O*âúN†fÂØ¯4dBlyýAÏÝÓU 8Æ6Î¼O°Ó@…`¸Ãð37®KÑ&åq+o¸x‡ë€î.ÕM-cLN¹‰MX¡~bÞNuúëXS‰0;3Ðüc´^krðË'|ÜîlYP4½”°ù
+p`³O$ôYN<vÈò7›CÞÔD@ ¾ˆ§0õÞë«Ï °ÇŽ„…<_Ieñª»™/´ÑÿÞ9ñè7„$&iŠÅÜjtbRmßžù+¶n¤‡pÚ/€²‹IôLëg¼°5yÖ`A¸YÁ‰üH•Ð”æ»»tšÆÅR•ÏLnü?ÂÒH´ ƒ.Àè`­fŠ³2h¶ZÇóç’ƒâ³N`_‘ØVOÍ°Ò+þ9Û¢Â„
+¨Ýª}	ÆaçÛá%âA¹2ºì}PÇ!½0·$ìæ
+ÚöVn¾Åã…ûâ^Tñý’þ!àþâkóÇºçñ«ÐâJ5É­/ŠU;¶£¼Z©À€¦EHÈ5ÈÆTïÔiG¹›bÚSˆ[@VQä1EíÏý~ RS[j¤ä:ÉØ>‰%žIPù¥IÕŠåpt}Nî *ö4OcâwÕf;£ÆÚo=G¾JwE°¢÷ŒZ‘±ûÜ†ª±~¯Æ“‰XGG1Þ·SæŠtÍ5¡kÇ¤Îp<Ó²r2]¾U5¿BF3AÄQ(Bãí=
+,Å/ö]âð©€7ø	ÍíÌ"Òç£9)UawÛœFpï'@Çì¥í`ÄËø(ãY,<T_¯\¢ªBâ†Fo­Ý}îF¥4¶KîÉ‡eU ·M´­eÚ‹5ü¥ x®j(-
+áÝò“.ð½Èe³&¦·¿C-HmÀÜÙñG18Ž]Sà¨xÊŸ6åÁÕYÔ,†Èó@ÝùÕ3JÍÙ¸µZŽó.ÁƒÈç’áÃÛ¹ËÁEî•"ùÆÆ³½üv$ë´ï{*Ü~ºcéŒÂ¥Ì¦ÊÜÑƒÖÐ:÷’,ÛwÊ$ÁQAïp¦'iy”ì\–É6uKûlýåz“ý<¬O}ËàWÃäý6KÏ‰r·.þl”HéØç_ù¾aVËÕ‹ŽüV¼Q™R×CQ@„Ã¦q+e_øuÅ×Ó‡z=¯òðdÉåD	Ù#)¦H÷ñfÈ?/F&­;DTî¿hÆJHª?èñ'V–lRÜÏªWGüÆjk öæDu(±Ä½ö‘‘V©ôãÒÒ…¬ËeðÁÀü®¬ƒmä&™X0Ã#k\þÞ[Ð€k]•t»ÚÈÒšî1—·èjJæøñÝ?‹óhƒRÈ«²Ã"i9Œªc$ˆQ§Ö#¦ÞÐfR•Às:lÈíua±™ýîöhêÿ[J±Ñ–sªºòTÑPçŒÈBLÔˆ3†¾JBM¿óV¦-Žùæ®³ÁôŸÚ;N³nÍ*ã‘5ãçÚŠ^‡À¡`K_Ù³Ë¨y¡äSd…“$êpÏŠú2Ž	Ç
+œ¾`=°°
+–YàOò_]«ðO?G€Îƒ ?SNÏf$áü49Å‹CÌ™%SQœÖ¦Õž+q‘ùAÚx©Õ%ÜÅM×5¾)=V‰Y– ›æ á¨´¹96j“0$q*$ôÝV&`#™1Ph	¯ÌtûF·z˜qÇ»ŒŠÎQúÄz	Ì†g©£Êµ|ÊY¢ÃïqÍ\øŒ¾­%mÕyyYôóºÙu_5ma¤<‡nó®tº±³·öcfL‰FÔZi¡)K¹ààËêd‹¶P s•U}ÔßáêNK~½ÜÛdV¢xÅr©ûRyŸ¯hÁÞÕ/;E?•Úé”ùùìI3³¶pçxõp¹e“‹ÓÅö b˜©ziüç¬e7>ëŸ¬Ô'
+3‡ÕËZN@òäª,aš¸s‹|üC+W¾Ú¡	¥+ôâ¹©à-Ó7rd¢ž!–‹Ò®E zUiÞÿeÎE4!þ×cü5öB 
+[A=*°]¿>NÚÃ^aùò`²$pAuAì§•ÄÀ•?ÈÈC'¯í²žìŽÌî¡AQÎ{°íÄq…7‘¤^¦¯wƒ$'hï‰ÝŽ›ÇÆï`ÏGâïëüæÇR¿…¹npÄ%Mx—-ÙÐ &ðõ£ˆ9a>=¥p\&²y¾¦©–ÂºŽ\8›ø)`˜n…A~ÍçûLPÚž†%%¾ä%‹ì*y (‹vÃkiö ,uÑÊÖ6¤’Õ ¯…tvÂ·é1ƒyéÎ8W‹`j™×¤hás ]r&“¿°±aí<aW ®îCå²•`uÛ-VDAKÅè	 õÁ©Q=ç™m8ÌÑNÎ_„},ÏÈv/ þ;½/GMÖ^ÅL¼NÛ¨%xê2C—Ô¢ys¾tó±UŽHöš­¾7×Ÿ§XÜðpÐÈ ÀÉ¦£qBÈÌ³o¦Q†-±i.½‹òø7IùCp†ŠÝð¼£n 2>ôFçÎD_bDÏ1†R¡¬8ùÙA<AúÕÜ§l¿ig½mËPøÎ2°ý"…Îê¬T¬3u"Vÿ¶ÿÆ¬ÿ„VA­ü»	ùŽh[ïoäÝ›>½FêÞD¦íqcÂ¤§Ý¯]ÉÑ'cžžyžÜä‹Ù"vRÃP¥ ÕlÜ#t„5GR”¤7•ämàqv«¸$¢RÖ(*%‘WÂ†SÊ×]xÁÍò^6Ð•Î'q}'C3aìW2!¶¼þ çîé*cgÞ'Øi B0Üaø™×¥h„ò¸ƒ•7\¼ƒÃu@w—ê&–1&§ÜÄ&¬P?1o§:ýu¬©D˜hþ1Z¯59	øå>nw¶,(š^JØ|8°Ù§ú,§ž;dù›Í!oj" ßFDŒSzïõÕgPØcGÂBžŽ¯¤²xÕÝÌÚèïœxôÂ “4E„bn5:1
+©¶oÏü[7ÒC8í@ÙÅ$z¦õ3^Øš<k° Ü¬àD~¤JhJó]‹]:Mãb©Êg&7
+þŸai$Z€A`t°V3ÅY4[­ãùóÉAñY'°¯Hl«§fXéÿ‚œmQaBÔn
+Õ¾†ã°óíðñ \]ö>¨ã^˜‚[’vsƒGm{+·ßâñÂ}q/ªø~IÿÀpñµùcÝóøUhq¥šäÖÅª…ÛQ^­ŠT`@Ó"¤ädcªwê‰´#ŒÜŒM1í)Ä- «(ò˜¢öç~?©©-5RrdlŸÄÏ$¨üÒ¤jÅr8º>'wP{š§1qŽ»j³Qcmˆ·ž…#_¥»"Ø Ñ{Æ­ÈØ}nCÕX¿WãIˆD¬££ï[‡©ó EºæšÐµcRg8‹iY9™.ßªš_!£„ â(¡ñö–âû.qøT
+Àü„ævféóÆÑœ”*È°»†mN#¸÷“G cöÒv0âå|”…ñ‚,ª¯W.QU!qC£·Öî¾w£‰R[Œ%÷äÃ²¿*€Û&Ú¿Vˆ2íÅþR¼Wµ”…ðnùI—ø^äŠ²YÓÛß¡¤6`îìø#‡Ç®)ðNT<åO›òÎàê,jCdH‹ù Šîüj¥æì?ÜÚ-Çù —àÁäsÉðám‰Üåà¢G÷J‘|ããÙ^~»’õÚ÷=n?Ý±tHFáRfSeîèAkh{I–mƒ;e’à¨ w8Ó“´<Jv.Ëd›º¥}¶þr½É~Ö§¾åNð‰«aò~›¥ç‡D¹[6J¤tìó¯|ß0«åêEÇ…~+Þ¨L©ë¡( Â…aÓ¸•²/üºb‚ëéC½žWyx2är¢‹„ì‘ŽS¤ûx3äŸ#“Ö"*÷_4c%$ÕŸ@
+ôxˆ+Ë6)îgÕ«#~cµ5{ó
+¢:”Ø?â^ûÈH«TúqiéBÖå2ø``~WÖA‡¶N	ò“L,˜á5.ÿï-hÀµ®Jº]mdiM÷˜Ë[t5%süøîŸÅy´A)ä€UÙa‘4ˆœ¿FÕ1Ä¨SëSo	h3)‡ÊFà96äöº°ØÌ~w{4õÿ-¥ØhË9U]yªh¨sFd!&jÄCß¿?%¡¦ßy«ÓÇ|s×Ù`úOí§Y·f•ñÈšñsmE¯CàP°¥¯ìÙå‰Ô¼Pò)²ÂIu¸gE}ÇÇ„cN_°XXË,ð'ù¯®Uø§Ÿ#@çAÐŸ)§g3’p~šÎœâÅ¡	æÌ’©¨FNkÓjÏ•¸È|È m¼Ôêîâ¦ëß”«Ä,KÐMs€ðTÚÜ›µI’8’Nún+°‘Ì˜N(4„„Wf:È}£[=Ì¸ã]FEç(}b½fÃ³ÔQåZ>ˆNå,Ñá÷¸f.|FßÖ’¶ê¼¼,úÀyÝìº¯š6Œ0RžC·y×:ÝØÙÛû13¦D#j­´Ð”¥\pðeu²€Å[(¹Êª>êopu§%¿^îm2+Q<Œâ¹Ôƒ¿}©¼ˆOŽW´`ïê—¢ŸJít
+Êü|ö¤™Y[¸Fƒs¼z¸Ü²ÉÅéb{@±ÌT=Ž4þsÖ²ŸÎõOVê…™Ãje­' yrÕ–0MÜ¹E>þ¡Œ•Œ«_íÐ¿„ÒzñÜTð–é› 9²QÏËˆEi×Æ" ½ª4ïÿ2ç"šŒÿë1þ{!P…­ •@Ø®_'ía¯°|y0Y¸ º öÇÓJbàÊd
+ä¡“×vYOvGf÷Ð Æ(ç=Øvâ¸Â›HR/Sƒ×»A’4‰÷ÄnÇÍcãw°ç#ñ÷u~óc©ßÂ\·8bƒ€’&<†ˆË–lè@ øúQÄœ0Ÿ†žÒ
+8.Ù<_ÓTKa]G.œMü0L·Â ¿æó}&(HmOHÃ’_ò’Ev•<ÐG” ‚E»áµ4{ –‹ºhek›RÉjÐ×B:;áŠÛô€˜Á¼ôGgœ«ÅG0µÌkÒ´ð9Ð.9“É_ØØ°vž°+PW÷‡‰¡†rÙJ°ºí+¢ ¥bô€úàÔ¨žóÌ6æh'ç†/Â>–gd»ÐÿÞ—£&k¯b&^§mÔ<u™¡KjÑ¼9_ºùØ*G${ÍŽVßŠkÏS,îx8hd àdÓÑ8!dæÙ7Ó(Cˆ–X‹4—ÞEùü›¤Œü!8CEŽ…îGxÞQ7 z#†sg¢/1¢¿ç˜C©PVœüì ž ýjîS¶ß´³Þ¶e(|gØ…~‘BgõV*Ö™:«ÛÿcÖB«† VþÝ„|G´­÷7òîMŸ^#uïN"ÓŒöÆ¸1aÒÓî×®äè“1O
+O<ÏnòÅl;©áF¨R€j6î:Âš#)JÒ›…Jò6ð8»U\Ñ)k•’‚‰È+áGÃ)åë.¼à‰fy/èJç“Š¸¾“¡™0ö+™[^Ðs÷tˆŽ±3ïì4P!î0üÌëR´	ByÜ‡ÁÊ.ÞÁá: »Ku“FË“SnbV¨Ÿ˜·Sþ:ÖT"ÌÎ4ÿ­×š‡œüò	·;[M/%l¾ØìÓ	}–SÏ€²üÍæ75ˆo#"Æ)ŒF½÷úê3(ì±#a!OÇWRY¼ênæmô¿wN<úa ‰É@š"B1·…TÛ·gþŠ­é!œö ìb=Óú¯lMž5XnVp"?R%´¥ù®Å.&‡q±Tå3“ÿO„°4­À 0:X«™â¬š­Öñüù…ä ø¬ØW$¶ÕS3¬ôŠAÎ¶¨0¡j7…j_C‚qØùvx‰xP®Œ.{ÔqH/LÁ-I»¹‚Á£¶½•Û‚oñxá¾¸€U|¿¤`¸¿øÚü±îyü*´¸RMrë‹bÕÂŽí(¯VE*0 iRr²1Õ;õDÚFnÆ¦†öâUyLQûs¿ˆÔÔ–)¹N²¶Ob‰gT~iRµb9]Ÿ“;¨Š=ÍÓ˜8Ç]µÙÎ¨±6Ä[ÏÂ‘¯Ò]l€†è=cVdì>·¡j¬ß«ñ$D"ÖÑQŒ÷­ÃT†y€"]sMèÚ1©3Å´¬œL—oUÍ¯ÑBqŠÐx{Kñ‹}—8|ªà~Bs;³ˆôyãhNJdØ]Ã6§ÜûÉ#Ð1{i;ñr>ÊÂøAÕ×+—¨ª¸¡Ñ[kwß»ÑD)-Æ’{òaÙ_Àmí_+D™öb)^†«ÚÊG‹Bx·ü¤K|/rEÙ¬‰éíïPR0÷@vü‘CŽc×x'*žò§Mygpu5‹!2¤ÅüÇEwþGµÆŒRsöní‡–ã|€Kðàò¹døð¶DîrpÑ£{¥H¾ñ€ñl/¿]Éúíûž
+·ŸîX:$£p)³©2wô 5´Î½$Ë¶Á2IpTÐ;œéIZ%;—e²MÝÒ>[¹Þd?ëSßr'øÄÕ0y¿ÍÒóC¢Ü­‹?%R:öùW¾‡o˜Õrõ¢ãB¿oT¦ÔõPáÂ°iÜJÙ~]1Áõô¡^Ï«<<™Gr9ÑEBöHGŠ)Ò}¼òÏ‹‘Ië•û/ƒ1‚’êO z<Ä‰•å›÷³êÕ¿±Úˆ½yQJìq¯}d¤U*ý¸´t!ër|00¿+ë C[§yI&ÌðˆÀ—ÿƒ÷4àZW%Ý®6²´¦{Ìå-ºš’9~|÷Ïâ<Ú rÀªì°HDÎß£ê	bÔ©õˆ©·´™”Ce#ðœr{]Xlf¿»=šúÿ–Rl´åœª®<U4Ô9#²5âŒ¡ïßŸ’PÓï¼Õi‹c¾¹ël0ý§öŽÓ¬[³ÊxdÍø¹¶¢×!p(ØÒWöìòÄj^(ùYá$‰:Ü³¢¾ŒãcÂ±§/X,¬‚eø“üW×*üÓÏ ó èÏ”Ó³I8?MgNñâÐsfÉTT#§µiµçJ\d>d6^ju	wqÓuoJUb–%è¦9@ø*mnŽÍ…Ú$IœŠI'}·•	ØHfL'BÂ+3ä¾Ñ-„fÜñ.£¢s”>±^³áYê¨r-D§r–èð{\3>£okI[u^^}à¼nvÝWMF)Ï¡Û¼ënììí†ý˜S¢µVZhÊR.8ø²:YÀâ‡-È\eUõ·F8„ºÓ’ßG/÷6™•(Fq„\êÁß¾T^Ä'Ç+Z°wõËNÑO¥v:e~>{ÒÌ¬-\£Á9‡^=\nÙäât±=H ØfªGÿ9kÙOçú'+õ‰ÂÌa5Æ²Ö‡<¹êK˜&îÜ"ÿPÆJÆU„¯vè_Bé
+½xn*xËôM€Ù‡¨gˆeÄ¢´kc€^Uš†÷™sMFˆÿõ½¨ÂVPJ l×¯“ö°WX¾<˜,	\P]ûãi%1påÀ2…òÐÉk»¬'»#³{hPc”ól;q\áM$©—©ÁëÝ É	šÄ{b·ãæ±ñ;Øó‘øû:¿ù±‡Ôoa®Û±A@IÃÄeK6t €	|ý(bN˜OCOiœ—‰lž¯iª¥°®#Î&~
+¦[a_óù>$‚¶'¤aI‰/yÉ"»Jè#J Á¢ÝÆðZš= ËE]´²µÍ ©d5èk!pÅmz@Ì`^ú£3ÎÕâ#˜Zæ5é Zøh—œÉä/llX;OØ¨«ûÃÄPC9†l%XÝv‹QÐR1z@}pjTÏyfs

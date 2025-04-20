@@ -30,7 +30,6 @@ void prims(vector<pair<int, int>> adj[], int n)
         }
         totalWeight += dist;
         visit[node] = 1;
-
         for (auto it : adj[node])
         {
             if (visit[it.first] == 0)
