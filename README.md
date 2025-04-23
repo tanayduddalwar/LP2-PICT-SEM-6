@@ -1,8 +1,6 @@
 # 📊 Data Science and Big Data Analytics Lab (DSBDA) – PICT SEM 6
 
-Welcome to the official repository for the **Data Science and Big Data Analytics (DSBDA)** lab assignments conducted during **Semester 6 (T.E. Computer Engineering)** at **Pune Institute of Computer Technology (PICT)**.
-
-This repository contains implementations of various experiments based on the syllabus prescribed for the academic year **2023-24**. It is divided into three groups: **Group A - Data Science**, **Group B - Big Data Analytics (Hadoop/Spark)**, and **Group C - Mini Projects/Case Studies**.
+This repository contains implementations of various experiments based on the syllabus prescribed for the academic year **2024-25**. It is divided into two groups: **Group A - Data Science**, **Group B - Big Data Analytics (Hadoop/Spark)**.
 
 ---
 
