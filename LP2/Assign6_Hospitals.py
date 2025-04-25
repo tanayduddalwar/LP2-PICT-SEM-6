@@ -112,8 +112,7 @@ class MedicalExpertSystem:
                 "Pulmonologist": ["Dr. Mohan Babu - Global Hospitals", "Dr. Sangeeta Narayan - MGM Healthcare"],
                 "Neurologist": ["Dr. Karthik Balaji - SIMS Hospital", "Dr. Anuradha Iyengar - Fortis Chennai"]
             }
-        }
-
+        }    
     def get_specialists(self, symptoms, risk_factors):
         specialist_scores = {}
 
@@ -156,12 +155,11 @@ class MedicalExpertSystem:
         print("\n🏥 Welcome to the Indian Medical Expert System!")
         print("Enter your symptoms separated by commas (e.g., chest pain, dizziness, fatigue):")
         user_symptoms = input().strip().lower().split(",")
-
-        print("\nEnter risk factors (if any) separated by commas or type 'none':")
-        user_risks = input().strip().lower().split(",") if input().strip().lower() != "none" else []
-
-        symptoms = [s.strip() for s in user_symptoms if s.strip()]
-        risk_factors = [r.strip() for r in user_risks if r.strip()]
+    
+        print("\nEnter risk factors (if any) separated by commas:")
+        user_risks = input().strip().lower().split(",")
+        symptoms = user_symptoms  
+        risk_factors = user_risks  
 
         specialists = self.get_specialists(symptoms, risk_factors)
         total_score = sum(details["score"] for details in specialists.values())
