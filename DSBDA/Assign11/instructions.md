@@ -1,0 +1,2 @@
+1. Download and extract Apache Spark from [https://dlcdn.apache.org/spark/spark-3.5.5/spark-3.5.5-bin-hadoop3.tgz](https://dlcdn.apache.org/spark/spark-3.5.5/spark-3.5.5-bin-hadoop3.tgz).
+2. Navigate to the `bin` folder, open a terminal, and run `./spark-shell -i <path_to_scala_file>`.
