@@ -1,0 +1,17 @@
+public class TempConvertor {
+
+    // Method to convert Celsius to Fahrenheit
+    public Double inputTemp { get; set; }
+    public String conversionType { get; set; }
+    public String result { get; set; }
+
+    public void convertTemp() {
+        if (conversionType == 'CtoF') {
+            result = inputTemp + '°C = ' + ((inputTemp * 9/5) + 32) + '°F';
+        } else if (conversionType == 'FtoC') {
+            result = inputTemp + '°F = ' + ((inputTemp - 32) * 5/9) + '°C';
+        } else {
+            result = 'Please select conversion type.';
+        }
+    }
+}

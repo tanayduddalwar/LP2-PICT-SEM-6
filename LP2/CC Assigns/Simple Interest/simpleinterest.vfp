@@ -1,0 +1,14 @@
+<apex:page controller="SimpleInterest">
+    <apex:form >
+    <apex:pageBlock title="Simple Interest Calculator">
+        <apex:pageBlockSection >
+            <apex:inputText value="{!principal}" label="Enter Principal Amount"/>
+            <apex:inputText value="{!rate}" label="Enter Interest Rate"/>
+            <apex:inputText value="{!years}" label="Enter years" />
+            <apex:commandButton action="{!convert}" rerender="output" value="Calculate"/>
+        </apex:pageBlockSection>
+        </apex:pageBlock>
+        <apex:outputPanel id="output"> 
+        <apex:outputLabel value="{!interest}"></apex:outputLabel></apex:outputPanel>
+    </apex:form>
+</apex:page>

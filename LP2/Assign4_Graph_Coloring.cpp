@@ -108,8 +108,6 @@ public:
     return false;
 }
 
-
-
     void printColor(map<int, string> ColorVertex, int color[], int V)
     {
         for (int i = 0; i < V; i++)

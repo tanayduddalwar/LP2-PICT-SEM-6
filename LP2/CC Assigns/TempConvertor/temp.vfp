@@ -1,0 +1,25 @@
+<apex:page controller="TempController">
+    <h1>Temperature Converter</h1>
+    <apex:form>
+        <apex:pageBlock>
+            <apex:pageBlockSection>
+
+                <apex:inputText value="{!inputTemp}" label="Enter the temperature"/>
+
+                <apex:selectList value="{!conversionType}" size="1" label="Convert">
+                    <apex:selectOption itemLabel="Select..." itemValue=""/>
+                    <apex:selectOption itemLabel="Celsius to Fahrenheit" itemValue="CtoF"></apex:selectOption> 
+                    <apex:selectOption itemLabel="Fahrenheit to Celsius" itemValue="FtoC"></apex:selectOption> 
+                </apex:selectList>
+
+                <apex:commandButton value="Convert" action="{!convertTemp}" rerender="output"/>
+
+            </apex:pageBlockSection>
+
+            <apex:outputPanel id="output">
+                <apex:outputLabel value="{!result}"></apex:outputLabel>
+            </apex:outputPanel>
+
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
