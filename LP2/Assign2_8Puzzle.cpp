@@ -1,169 +1,97 @@
-#include <iostream>
-#include <queue>
+#include<iostream>
 #include <vector>
-#include <climits>
-#include <algorithm>
-
+#include <queue>
+#include<unordered_set>
 using namespace std;
-
-struct Node 
-{
-    Node *par;
-    int st[3][3];
+int N=3;
+vector<vector<int>>goal={{1,2,3},{4,5,6},{7,8,0}};
+struct State{
+    vector<vector<int>>board;
     int g;
     int h;
-    int x, y;
+    string path;
+    bool operator>(const State&Other) const{
+        return g + h>Other.g+Other.h;
+    } 
 };
-
-int dr[] = {1, 0, -1, 0};
-int dc[] = {0, -1, 0, 1};
-
-void printMat(int mat[3][3], int g, int h) 
-{
-    for(int i = 0; i < 3; i++) 
-    {
-        for(int j = 0; j < 3; j++) 
-        {
-            cout << mat[i][j] << " ";
-        }
-        cout << endl;
-    }
-
-    cout << "g: " << g << " ";
-    cout<< "h: " << h << " ";
-    cout<< "f: " << g + h << endl;
-}
-
-Node *newNode(int mat[3][3], int x, int y, int nx, int ny, int g,Node *par) 
-{
-    Node *node = new Node;
-    node->par = par;
-    for (int i = 0; i < 3; i++) 
-    {
-        for (int j = 0; j < 3; j++) 
-        {
-            node->st[i][j] = mat[i][j];
-        }
-    }
-
-    swap(node->st[x][y], node->st[nx][ny]);
-
-    node->h = INT_MAX;
-    node->g = g;
-    node->x = nx;
-    node->y = ny;
-
-    return node;
-}
-
-int heur(int init[3][3], int goal[3][3]) 
-{
-    int c = 0;
-    for (int i = 0; i < 3; i++)
-    {
-        for (int j = 0; j < 3; j++)
-        {
-            if (init[i][j] && init[i][j] != goal[i][j])
-            {
-                c++;
+pair<int,int>locateblank(vector<vector<int>>&board){
+    for(int i=0;i<3;i++){
+        for(int j=0;j<3;j++){
+            if(board[i][j]==0){
+                return {i,j};
             }
         }
-            
     }
-    return c;
+    return {-1,-1};
 }
-
-bool isSafe(int x, int y)
- { 
-    return (x >= 0 && x < 3 && y >= 0 && y < 3); 
-}
-
-void printPath(Node *root)
-{
-    if (root == NULL)
-        return;
-    printPath(root->par);
-    printMat(root->st, root->g, root->h);
-    cout << endl;
-}
-
-struct comp 
-{
-    bool operator()(const Node *lhs, const Node *rhs) const 
-    {
-        return (lhs->h + lhs->g) > (rhs->h + rhs->g);
+int calc_heuristic(vector<vector<int>>&board){
+    int count=0;
+    for(int i=0;i<3;i++){
+        for(int j=0;j<3;j++){
+            if(board[i][j]!=0 && board[i][j]!=goal[i][j]){
+                count++;
+            }
+        }
     }
-};
-
-void solve(int start[3][3], int x, int y, int goal[3][3]) 
-{
-    int cnt = 0;
-    priority_queue<Node *, vector<Node *>, comp> pq;
-
-    Node *root = newNode(start, x, y, x, y, 0, NULL);
-    root->h = heur(start, goal);
-
-    pq.push(root);
-
-    while (!pq.empty()) 
-    {
-        Node *m = pq.top();
+    return count;
+}
+string str_path(vector<vector<int>>&board){
+    string ans="";
+    for(int i=0;i<3;i++){
+        for(int j=0;j<3;j++){
+            ans=ans+to_string(board[i][j]);
+        }
+    }
+    return ans;
+}
+bool isgoal(vector<vector<int>>&board){
+    if(board==goal){
+        return true;
+    }
+    return false;
+}
+void solve(vector<vector<int>>&start){
+    priority_queue<State,vector<State>,greater<State>>pq;
+    int delrow[]={-1,0,1,0};
+    int delcol[]={0,1,0,-1};
+    char dir[]={'U','R','D','L'};
+    pq.push({start,0,calc_heuristic(start),""});
+    unordered_set<string>visited;
+    visited.insert(str_path(start));
+    while(!pq.empty()){
+        State curr=pq.top();
         pq.pop();
-
-        if (m->h == 0) 
-        {
-            cout << "\n\nThis puzzle is solved in " << cnt << " moves \n";
-            printPath(m);
+        pair<int,int>blank=locateblank(curr.board);
+        int x=blank.first;
+        int y=blank.second;
+        if(isgoal(curr.board)){
+            cout<<"Solved in "<<curr.g<<"Steps"<<endl;
+            cout<<"Path:"<<curr.path<<endl;
             return;
+
         }
-
-        cnt++;
-        for (int i = 0; i < 4; i++) 
-        {
-            int dx = m->x + dr[i];
-            int dy = m->y + dc[i];
-
-            if (isSafe(dx, dy)) 
-            {
-                Node *child = newNode(m->st, m->x, m->y, dx, dy, m->g + 1, m);
-                child->h = heur(child->st, goal);
-                pq.push(child);
+        for(int i=0;i<4;i++){
+            int x_loc=x + delrow[i];
+            int y_loc=y + delcol[i];
+            if(x_loc>=0 && x_loc<3 && y_loc>=0 && y_loc<3){
+                auto newboard=curr.board;
+                swap(newboard[x][y],newboard[x_loc][y_loc]);
+                string p=str_path(newboard);
+                if(!visited.count(p)){
+                    visited.insert(p);
+                    pq.push({newboard,curr.g+1,calc_heuristic(newboard),curr.path+dir[i]});
+                }
+                
             }
+
         }
+
     }
 }
-
 int main()
 {
-    int start[3][3];
-    int goal[3][3];
-
-    int x = -1;
-    int y = -1;
-
-    cout << "Enter the start state: " << endl;
-    for (int i = 0; i < 3; i++)
-     {
-        for (int j = 0; j < 3; j++)
-        {
-            cin >> start[i][j];
-            if (start[i][j] == 0) 
-            {
-                x = i;
-                y = j;
-            }
-        }
-    }
-    cout << endl;
-    cout << "Enter the goal state: " << endl;
-    for (int i = 0; i < 3; i++) 
-    {
-        for (int j = 0; j < 3; j++)
-         {
-            cin >> goal[i][j];
-        }
-    }
-
-    solve(start, x, y, goal);
+    vector<vector<int>>start={{7,8,3},{1,4,6},{5,2,0}};
+    solve(start);
+    /* code */
     return 0;
 }
