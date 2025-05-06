@@ -1,0 +1,24 @@
+public class MatrixUIController {
+    public Integer a11 {get; set;}
+    public Integer a12 {get; set;}
+    public Integer a21 {get; set;}
+    public Integer a22 {get; set;}
+
+    public Integer b11 {get; set;}
+    public Integer b12 {get; set;}
+    public Integer b21 {get; set;}
+    public Integer b22 {get; set;}
+
+    public String result {get; set;}
+
+    public void add() {
+        Integer r11 = a11 + b11;
+        Integer r12 = a12 + b12;
+        Integer r21 = a21 + b21;
+        Integer r22 = a22 + b22;
+
+        result = 'Result Matrix:\n' +
+                 r11 + '\t' + r12 + '\n' +
+                 r21 + '\t' + r22;
+    }
+}

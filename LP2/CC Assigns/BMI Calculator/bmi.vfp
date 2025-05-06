@@ -1,0 +1,26 @@
+<apex:page controller="BMICalculator">
+    <apex:form >
+        <!-- Displays error messages -->
+        <apex:pageMessages id="messages" />
+
+        <apex:pageBlock title="BMI Calculator">
+            <apex:pageBlockSection columns="1">
+                <apex:outputLabel for="weight">Enter Weight (kg):</apex:outputLabel>
+                <apex:inputText id="weight" value="{!weight}" />
+
+                <apex:outputLabel for="height">Enter Height (m):</apex:outputLabel>
+                <apex:inputText id="height" value="{!height}" />
+
+                <apex:commandButton value="Calculate BMI" action="{!calculateBMI}" rerender="result, messages" />
+
+                <apex:outputPanel id="result">
+                    <apex:outputLabel value="Your BMI: " rendered="{!NOT(ISNULL(bmi))}" />
+                    <apex:outputText value="{!bmi}" rendered="{!NOT(ISNULL(bmi))}" />
+                    <br/>
+                    <apex:outputLabel value="Category: " rendered="{!NOT(ISNULL(category))}" />
+                    <apex:outputText value="{!category}" rendered="{!NOT(ISNULL(category))}" />
+                </apex:outputPanel>
+            </apex:pageBlockSection>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

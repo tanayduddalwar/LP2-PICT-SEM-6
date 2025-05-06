@@ -1,0 +1,19 @@
+public class ArrayAddition {
+public List<Integer> array1 { get; set; }
+    public List<Integer> array2 { get; set; }
+    public List<Integer> result { get; set; }
+
+    public ArrayAddition() {
+        array1 = new List<Integer>{0, 0, 0, 0, 0};
+        array2 = new List<Integer>{0, 0, 0, 0, 0};
+        result = new List<Integer>();
+    }
+
+    public void addArrays() {
+        result.clear();
+        for (Integer i = 0; i < array1.size(); i++) {
+            result.add(array1[i] + array2[i]);
+        }
+    }
+
+}

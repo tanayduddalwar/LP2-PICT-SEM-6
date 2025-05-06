@@ -1,0 +1,33 @@
+<apex:page controller="ArrayAddition">
+    <h2>Array Addition</h2>
+    <apex:form >
+        <apex:pageBlock title="Enter Array Values">
+
+            <apex:pageBlockSection title="Array 1">
+                <apex:inputText value="{!array1[0]}" label="A1"/>
+                <apex:inputText value="{!array1[1]}" label="A2"/>
+                <apex:inputText value="{!array1[2]}" label="A3"/>
+                <apex:inputText value="{!array1[3]}" label="A4"/>
+                <apex:inputText value="{!array1[4]}" label="A5"/>
+            </apex:pageBlockSection>
+
+            <apex:pageBlockSection title="Array 2">
+                <apex:inputText value="{!array2[0]}" label="B1"/>
+                <apex:inputText value="{!array2[1]}" label="B2"/>
+                <apex:inputText value="{!array2[2]}" label="B3"/>
+                <apex:inputText value="{!array2[3]}" label="B4"/>
+                <apex:inputText value="{!array2[4]}" label="B5"/>
+            </apex:pageBlockSection>
+
+            <apex:commandButton value="Add Arrays" action="{!addArrays}" reRender="resultPanel"/>
+
+            <apex:outputPanel id="resultPanel">
+                <apex:pageBlockSection title="Result">
+                    <apex:outputText value="{!result}" />
+                </apex:pageBlockSection>
+            </apex:outputPanel>
+
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
+             

@@ -1,0 +1,23 @@
+<apex:page controller="MatrixUIController">
+    <apex:form >
+        <apex:pageBlock title="Matrix Addition">
+            <apex:pageBlockSection >
+                <apex:inputText label="A11" value="{!a11}"/>
+                <apex:inputText label="A12" value="{!a12}"/>
+                <apex:inputText label="A21" value="{!a21}"/>
+                <apex:inputText label="A22" value="{!a22}"/>
+                 <apex:inputText value="{!b11}" label="B11"/>
+                <apex:inputText value="{!b12}" label="B12"/>
+                <apex:inputText value="{!b21}" label="B21"/>
+                <apex:inputText value="{!b22}" label="B22"/>
+                <apex:commandButton value="Addition" reRender="submit" action="{!add}"/>
+            </apex:pageBlockSection>
+            <apex:outputPanel id="submit">
+                <pre>
+        <apex:outputText value="{!result}"/>
+    </pre>
+            </apex:outputPanel>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
+            

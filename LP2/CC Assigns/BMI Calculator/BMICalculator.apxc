@@ -1,0 +1,46 @@
+public class BMICalculator {
+    public String weight { get; set; }  
+    public String height { get; set; }  
+    public Double bmi { get; set; }
+    public String category { get; set; }
+
+    public void calculateBMI() {
+        bmi = null;
+        category = null;
+
+        String weightInput = (weight != null) ? weight.trim() : '';
+        String heightInput = (height != null) ? height.trim() : '';
+
+        if (String.isBlank(weightInput) || String.isBlank(heightInput)) {
+            ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.ERROR, 'Please enter both weight and height.'));
+            return;
+        }
+
+        if (weightInput.contains(',') || heightInput.contains(',')) {
+            ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.ERROR, 'Invalid input: Use a dot (.) instead of a comma (,) for decimal values.'));
+            return;
+        }
+
+        try {
+            Double weightValue = Double.valueOf(weightInput);
+            Double heightValue = Double.valueOf(heightInput);
+
+            if (weightValue <= 0 || heightValue <= 0) {
+                ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.ERROR, 'Weight and height must be positive values.'));
+                return;
+            }
+            bmi = weightValue / (heightValue * heightValue);
+            category = categorizeBMI(bmi);
+
+        } catch (Exception e) {
+            ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.ERROR, 'Invalid input. Please enter valid numbers for weight and height.'));
+        }
+    }
+
+    public String categorizeBMI(Double bmi) {
+        if (bmi < 18.5) return 'Underweight';
+        else if (bmi >= 18.5 && bmi < 24.9) return 'Normal weight';
+        else if (bmi >= 25 && bmi < 29.9) return 'Overweight';
+        else return 'Obesity';
+    }
+}
