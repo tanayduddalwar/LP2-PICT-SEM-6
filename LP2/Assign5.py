@@ -51,7 +51,6 @@ def get_response(user_input, last_topic=None):
     best_match, match_score = process.extractOne(user_input, keyword_responses.keys())
 
     if match_score >= 60:
-        if best_match == "menu":
             return keyword_responses[best_match], best_match
 
     return "I'm sorry, I couldn't understand that. Please visit our website or call us for more information.", None
